@@ -1,0 +1,15521 @@
+{
+  "metrics": [
+	{
+ 	"date": "2017-11-15T00:01:12Z",
+	"averageResponseTime": 351
+	},
+	{
+ 	"date": "2017-11-14T00:01:19Z",
+	"averageResponseTime": 302
+	},
+	{
+ 	"date": "2017-11-13T00:30:44Z",
+	"averageResponseTime": 264
+	},
+	{
+ 	"date": "2017-11-12T00:31:08Z",
+	"averageResponseTime": 206
+	},
+	{
+ 	"date": "2017-11-11T00:30:57Z",
+	"averageResponseTime": 184
+	},
+	{
+ 	"date": "2017-11-10T00:01:40Z",
+	"averageResponseTime": 241
+	},
+	{
+ 	"date": "2017-11-09T00:32:07Z",
+	"averageResponseTime": 263
+	},
+	{
+ 	"date": "2017-11-08T00:01:30Z",
+	"averageResponseTime": 271
+	},
+	{
+ 	"date": "2017-11-07T00:01:57Z",
+	"averageResponseTime": 253
+	},
+	{
+ 	"date": "2017-11-06T00:01:41Z",
+	"averageResponseTime": 246
+	},
+	{
+ 	"date": "2017-11-05T00:02:12Z",
+	"averageResponseTime": 215
+	},
+	{
+ 	"date": "2017-11-04T00:01:35Z",
+	"averageResponseTime": 381
+	},
+	{
+ 	"date": "2017-11-03T00:01:34Z",
+	"averageResponseTime": 216
+	},
+	{
+ 	"date": "2017-11-02T00:01:39Z",
+	"averageResponseTime": 223
+	},
+	{
+ 	"date": "2017-11-01T00:01:35Z",
+	"averageResponseTime": 210
+	},
+	{
+ 	"date": "2017-10-31T00:01:42Z",
+	"averageResponseTime": 229
+	},
+	{
+ 	"date": "2017-10-30T00:01:30Z",
+	"averageResponseTime": 226
+	},
+	{
+ 	"date": "2017-10-29T00:01:35Z",
+	"averageResponseTime": 208
+	},
+	{
+ 	"date": "2017-10-28T00:01:32Z",
+	"averageResponseTime": 207
+	},
+	{
+ 	"date": "2017-10-27T00:02:51Z",
+	"averageResponseTime": 229
+	},
+	{
+ 	"date": "2017-10-26T00:01:47Z",
+	"averageResponseTime": 233
+	},
+	{
+ 	"date": "2017-10-25T00:01:37Z",
+	"averageResponseTime": 257
+	},
+	{
+ 	"date": "2017-10-24T00:01:51Z",
+	"averageResponseTime": 254
+	},
+	{
+ 	"date": "2017-10-23T00:01:30Z",
+	"averageResponseTime": 256
+	},
+	{
+ 	"date": "2017-10-22T00:01:29Z",
+	"averageResponseTime": 215
+	},
+	{
+ 	"date": "2017-10-21T00:01:37Z",
+	"averageResponseTime": 203
+	},
+	{
+ 	"date": "2017-10-20T00:01:34Z",
+	"averageResponseTime": 232
+	},
+	{
+ 	"date": "2017-10-19T00:01:42Z",
+	"averageResponseTime": 253
+	},
+	{
+ 	"date": "2017-10-18T00:01:24Z",
+	"averageResponseTime": 254
+	},
+	{
+ 	"date": "2017-10-17T00:01:25Z",
+	"averageResponseTime": 309
+	},
+	{
+ 	"date": "2017-10-16T00:01:13Z",
+	"averageResponseTime": 321
+	},
+	{
+ 	"date": "2017-10-15T00:01:25Z",
+	"averageResponseTime": 296
+	},
+	{
+ 	"date": "2017-10-14T00:01:14Z",
+	"averageResponseTime": 238
+	},
+	{
+ 	"date": "2017-10-13T00:03:21Z",
+	"averageResponseTime": 319
+	},
+	{
+ 	"date": "2017-10-12T00:01:21Z",
+	"averageResponseTime": 335
+	},
+	{
+ 	"date": "2017-10-11T00:01:21Z",
+	"averageResponseTime": 379
+	},
+	{
+ 	"date": "2017-10-10T00:01:14Z",
+	"averageResponseTime": 362
+	},
+	{
+ 	"date": "2017-10-09T00:01:17Z",
+	"averageResponseTime": 310
+	},
+	{
+ 	"date": "2017-10-08T00:01:15Z",
+	"averageResponseTime": 244
+	},
+	{
+ 	"date": "2017-10-07T00:01:04Z",
+	"averageResponseTime": 253
+	},
+	{
+ 	"date": "2017-10-06T00:02:39Z",
+	"averageResponseTime": 303
+	},
+	{
+ 	"date": "2017-10-05T00:02:37Z",
+	"averageResponseTime": 335
+	},
+	{
+ 	"date": "2017-10-04T00:01:01Z",
+	"averageResponseTime": 275
+	},
+	{
+ 	"date": "2017-10-03T00:01:18Z",
+	"averageResponseTime": 274
+	},
+	{
+ 	"date": "2017-10-02T00:02:31Z",
+	"averageResponseTime": 251
+	},
+	{
+ 	"date": "2017-10-01T00:02:32Z",
+	"averageResponseTime": 270
+	},
+	{
+ 	"date": "2017-09-30T00:02:30Z",
+	"averageResponseTime": 254
+	},
+	{
+ 	"date": "2017-09-29T00:02:25Z",
+	"averageResponseTime": 272
+	},
+	{
+ 	"date": "2017-09-28T00:02:23Z",
+	"averageResponseTime": 284
+	},
+	{
+ 	"date": "2017-09-27T00:01:00Z",
+	"averageResponseTime": 284
+	},
+	{
+ 	"date": "2017-09-26T00:01:03Z",
+	"averageResponseTime": 304
+	},
+	{
+ 	"date": "2017-09-25T00:02:21Z",
+	"averageResponseTime": 327
+	},
+	{
+ 	"date": "2017-09-24T00:02:20Z",
+	"averageResponseTime": 320
+	},
+	{
+ 	"date": "2017-09-23T00:01:02Z",
+	"averageResponseTime": 330
+	},
+	{
+ 	"date": "2017-09-22T00:02:16Z",
+	"averageResponseTime": 317
+	},
+	{
+ 	"date": "2017-09-21T00:01:35Z",
+	"averageResponseTime": 304
+	},
+	{
+ 	"date": "2017-09-20T00:05:18Z",
+	"averageResponseTime": 326
+	},
+	{
+ 	"date": "2017-09-19T00:01:17Z",
+	"averageResponseTime": 335
+	},
+	{
+ 	"date": "2017-09-18T00:01:15Z",
+	"averageResponseTime": 347
+	},
+	{
+ 	"date": "2017-09-17T00:01:13Z",
+	"averageResponseTime": 273
+	},
+	{
+ 	"date": "2017-09-16T00:01:23Z",
+	"averageResponseTime": 246
+	},
+	{
+ 	"date": "2017-09-15T00:01:14Z",
+	"averageResponseTime": 317
+	},
+	{
+ 	"date": "2017-09-14T00:01:10Z",
+	"averageResponseTime": 377
+	},
+	{
+ 	"date": "2017-09-13T00:01:54Z",
+	"averageResponseTime": 381
+	},
+	{
+ 	"date": "2017-09-12T00:01:15Z",
+	"averageResponseTime": 352
+	},
+	{
+ 	"date": "2017-09-11T00:01:10Z",
+	"averageResponseTime": 336
+	},
+	{
+ 	"date": "2017-09-10T00:01:06Z",
+	"averageResponseTime": 264
+	},
+	{
+ 	"date": "2017-09-09T00:01:03Z",
+	"averageResponseTime": 237
+	},
+	{
+ 	"date": "2017-09-08T00:01:09Z",
+	"averageResponseTime": 281
+	},
+	{
+ 	"date": "2017-09-07T00:01:03Z",
+	"averageResponseTime": 281
+	},
+	{
+ 	"date": "2017-09-06T00:01:11Z",
+	"averageResponseTime": 280
+	},
+	{
+ 	"date": "2017-09-05T00:02:23Z",
+	"averageResponseTime": 287
+	},
+	{
+ 	"date": "2017-09-04T00:01:04Z",
+	"averageResponseTime": 265
+	},
+	{
+ 	"date": "2017-09-03T00:02:10Z",
+	"averageResponseTime": 195
+	},
+	{
+ 	"date": "2017-09-02T00:02:09Z",
+	"averageResponseTime": 185
+	},
+	{
+ 	"date": "2017-09-01T00:01:34Z",
+	"averageResponseTime": 279
+	},
+	{
+ 	"date": "2017-08-31T00:01:00Z",
+	"averageResponseTime": 278
+	},
+	{
+ 	"date": "2017-08-30T00:01:08Z",
+	"averageResponseTime": 258
+	},
+	{
+ 	"date": "2017-08-29T00:02:17Z",
+	"averageResponseTime": 279
+	},
+	{
+ 	"date": "2017-08-28T00:02:15Z",
+	"averageResponseTime": 299
+	},
+	{
+ 	"date": "2017-08-27T00:01:06Z",
+	"averageResponseTime": 255
+	},
+	{
+ 	"date": "2017-08-26T00:01:03Z",
+	"averageResponseTime": 256
+	},
+	{
+ 	"date": "2017-08-25T00:01:07Z",
+	"averageResponseTime": 279
+	},
+	{
+ 	"date": "2017-08-24T00:02:26Z",
+	"averageResponseTime": 305
+	},
+	{
+ 	"date": "2017-08-23T00:01:07Z",
+	"averageResponseTime": 306
+	},
+	{
+ 	"date": "2017-08-22T00:01:10Z",
+	"averageResponseTime": 323
+	},
+	{
+ 	"date": "2017-08-21T00:01:09Z",
+	"averageResponseTime": 307
+	},
+	{
+ 	"date": "2017-08-20T00:02:18Z",
+	"averageResponseTime": 305
+	},
+	{
+ 	"date": "2017-08-19T00:02:17Z",
+	"averageResponseTime": 108
+	},
+	{
+ 	"date": "2017-08-18T00:02:16Z",
+	"averageResponseTime": 289
+	},
+	{
+ 	"date": "2017-08-17T00:01:12Z",
+	"averageResponseTime": 279
+	},
+	{
+ 	"date": "2017-08-16T00:01:07Z",
+	"averageResponseTime": 20
+	},
+	{
+ 	"date": "2017-08-15T00:02:26Z",
+	"averageResponseTime": 262
+	},
+	{
+ 	"date": "2017-08-14T00:02:24Z",
+	"averageResponseTime": 280
+	},
+	{
+ 	"date": "2017-08-13T00:01:17Z",
+	"averageResponseTime": 363
+	},
+	{
+ 	"date": "2017-08-12T00:01:03Z",
+	"averageResponseTime": 247
+	},
+	{
+ 	"date": "2017-08-11T00:02:13Z",
+	"averageResponseTime": 259
+	},
+	{
+ 	"date": "2017-08-10T00:04:25Z",
+	"averageResponseTime": 282
+	},
+	{
+ 	"date": "2017-08-09T00:01:39Z",
+	"averageResponseTime": 284
+	},
+	{
+ 	"date": "2017-08-08T00:01:28Z",
+	"averageResponseTime": 307
+	},
+	{
+ 	"date": "2017-08-07T00:01:20Z",
+	"averageResponseTime": 266
+	},
+	{
+ 	"date": "2017-08-06T00:01:03Z",
+	"averageResponseTime": 240
+	},
+	{
+ 	"date": "2017-08-05T00:01:12Z",
+	"averageResponseTime": 276
+	},
+	{
+ 	"date": "2017-08-04T00:01:21Z",
+	"averageResponseTime": 220
+	},
+	{
+ 	"date": "2017-08-03T00:01:13Z",
+	"averageResponseTime": 235
+	},
+	{
+ 	"date": "2017-08-02T00:01:21Z",
+	"averageResponseTime": 239
+	},
+	{
+ 	"date": "2017-08-01T00:01:14Z",
+	"averageResponseTime": 234
+	},
+	{
+ 	"date": "2017-07-31T22:48:52Z",
+	"averageResponseTime": 248
+	},
+	{
+ 	"date": "2017-07-30T00:01:08Z",
+	"averageResponseTime": 282
+	},
+	{
+ 	"date": "2017-07-29T00:01:12Z",
+	"averageResponseTime": 205
+	},
+	{
+ 	"date": "2017-07-28T00:04:41Z",
+	"averageResponseTime": 257
+	},
+	{
+ 	"date": "2017-07-27T00:01:33Z",
+	"averageResponseTime": 260
+	},
+	{
+ 	"date": "2017-07-26T00:01:46Z",
+	"averageResponseTime": 204
+	},
+	{
+ 	"date": "2017-07-25T00:02:14Z",
+	"averageResponseTime": 227
+	},
+	{
+ 	"date": "2017-07-24T00:02:09Z",
+	"averageResponseTime": 225
+	},
+	{
+ 	"date": "2017-07-23T00:02:06Z",
+	"averageResponseTime": 97
+	},
+	{
+ 	"date": "2017-07-22T00:01:38Z",
+	"averageResponseTime": 110
+	},
+	{
+ 	"date": "2017-07-21T00:01:59Z",
+	"averageResponseTime": 278
+	},
+	{
+ 	"date": "2017-07-20T00:01:37Z",
+	"averageResponseTime": 313
+	},
+	{
+ 	"date": "2017-07-19T00:01:45Z",
+	"averageResponseTime": 258
+	},
+	{
+ 	"date": "2017-07-18T00:01:42Z",
+	"averageResponseTime": 268
+	},
+	{
+ 	"date": "2017-07-17T00:01:43Z",
+	"averageResponseTime": 343
+	},
+	{
+ 	"date": "2017-07-16T00:01:44Z",
+	"averageResponseTime": 178
+	},
+	{
+ 	"date": "2017-07-15T00:01:52Z",
+	"averageResponseTime": 165
+	},
+	{
+ 	"date": "2017-07-14T00:01:31Z",
+	"averageResponseTime": 309
+	},
+	{
+ 	"date": "2017-07-13T00:01:44Z",
+	"averageResponseTime": 290
+	},
+	{
+ 	"date": "2017-07-12T00:01:35Z",
+	"averageResponseTime": 290
+	},
+	{
+ 	"date": "2017-07-11T00:01:40Z",
+	"averageResponseTime": 267
+	},
+	{
+ 	"date": "2017-07-10T00:01:21Z",
+	"averageResponseTime": 240
+	},
+	{
+ 	"date": "2017-07-09T00:01:35Z",
+	"averageResponseTime": 199
+	},
+	{
+ 	"date": "2017-07-08T00:01:27Z",
+	"averageResponseTime": 196
+	},
+	{
+ 	"date": "2017-07-07T00:01:29Z",
+	"averageResponseTime": 254
+	},
+	{
+ 	"date": "2017-07-06T00:01:20Z",
+	"averageResponseTime": 241
+	},
+	{
+ 	"date": "2017-07-05T00:01:31Z",
+	"averageResponseTime": 240
+	},
+	{
+ 	"date": "2017-07-04T00:01:35Z",
+	"averageResponseTime": 240
+	},
+	{
+ 	"date": "2017-07-03T00:01:21Z",
+	"averageResponseTime": 265
+	},
+	{
+ 	"date": "2017-07-02T00:01:21Z",
+	"averageResponseTime": 162
+	},
+	{
+ 	"date": "2017-07-01T00:01:12Z",
+	"averageResponseTime": 173
+	},
+	{
+ 	"date": "2017-06-30T00:01:22Z",
+	"averageResponseTime": 264
+	},
+	{
+ 	"date": "2017-06-29T00:01:15Z",
+	"averageResponseTime": 243
+	},
+	{
+ 	"date": "2017-06-28T00:01:28Z",
+	"averageResponseTime": 251
+	},
+	{
+ 	"date": "2017-06-27T00:01:14Z",
+	"averageResponseTime": 229
+	},
+	{
+ 	"date": "2017-06-26T00:02:01Z",
+	"averageResponseTime": 230
+	},
+	{
+ 	"date": "2017-06-25T00:02:07Z",
+	"averageResponseTime": 197
+	},
+	{
+ 	"date": "2017-06-24T00:01:56Z",
+	"averageResponseTime": 236
+	},
+	{
+ 	"date": "2017-06-23T00:01:50Z",
+	"averageResponseTime": 263
+	},
+	{
+ 	"date": "2017-06-22T00:01:42Z",
+	"averageResponseTime": 276
+	},
+	{
+ 	"date": "2017-06-21T00:01:55Z",
+	"averageResponseTime": 281
+	},
+	{
+ 	"date": "2017-06-20T00:01:34Z",
+	"averageResponseTime": 276
+	},
+	{
+ 	"date": "2017-06-19T00:01:38Z",
+	"averageResponseTime": 283
+	},
+	{
+ 	"date": "2017-06-18T00:01:28Z",
+	"averageResponseTime": 288
+	},
+	{
+ 	"date": "2017-06-17T00:01:27Z",
+	"averageResponseTime": 264
+	},
+	{
+ 	"date": "2017-06-16T00:01:24Z",
+	"averageResponseTime": 268
+	},
+	{
+ 	"date": "2017-06-15T00:02:08Z",
+	"averageResponseTime": 294
+	},
+	{
+ 	"date": "2017-06-14T00:01:25Z",
+	"averageResponseTime": 284
+	},
+	{
+ 	"date": "2017-06-13T00:01:32Z",
+	"averageResponseTime": 289
+	},
+	{
+ 	"date": "2017-06-12T00:01:17Z",
+	"averageResponseTime": 275
+	},
+	{
+ 	"date": "2017-06-11T00:01:15Z",
+	"averageResponseTime": 199
+	},
+	{
+ 	"date": "2017-06-10T00:01:19Z",
+	"averageResponseTime": 237
+	},
+	{
+ 	"date": "2017-06-09T00:01:41Z",
+	"averageResponseTime": 261
+	},
+	{
+ 	"date": "2017-06-08T00:02:43Z",
+	"averageResponseTime": 269
+	},
+	{
+ 	"date": "2017-06-07T00:02:10Z",
+	"averageResponseTime": 270
+	},
+	{
+ 	"date": "2017-06-06T00:02:28Z",
+	"averageResponseTime": 274
+	},
+	{
+ 	"date": "2017-06-05T00:01:53Z",
+	"averageResponseTime": 246
+	},
+	{
+ 	"date": "2017-06-04T00:02:06Z",
+	"averageResponseTime": 198
+	},
+	{
+ 	"date": "2017-06-03T00:01:55Z",
+	"averageResponseTime": 206
+	},
+	{
+ 	"date": "2017-06-02T00:01:48Z",
+	"averageResponseTime": 231
+	},
+	{
+ 	"date": "2017-06-01T00:02:30Z",
+	"averageResponseTime": 241
+	},
+	{
+ 	"date": "2017-05-31T00:01:41Z",
+	"averageResponseTime": 236
+	},
+	{
+ 	"date": "2017-05-30T00:01:44Z",
+	"averageResponseTime": 244
+	},
+	{
+ 	"date": "2017-05-29T00:01:36Z",
+	"averageResponseTime": 273
+	},
+	{
+ 	"date": "2017-05-28T00:01:38Z",
+	"averageResponseTime": 508
+	},
+	{
+ 	"date": "2017-05-27T00:01:29Z",
+	"averageResponseTime": 884
+	},
+	{
+ 	"date": "2017-05-26T00:01:53Z",
+	"averageResponseTime": 270
+	},
+	{
+ 	"date": "2017-05-25T00:02:01Z",
+	"averageResponseTime": 298
+	},
+	{
+ 	"date": "2017-05-24T00:01:24Z",
+	"averageResponseTime": 305
+	},
+	{
+ 	"date": "2017-05-23T00:01:23Z",
+	"averageResponseTime": 298
+	},
+	{
+ 	"date": "2017-05-22T00:01:01Z",
+	"averageResponseTime": 296
+	},
+	{
+ 	"date": "2017-05-21T00:01:14Z",
+	"averageResponseTime": 256
+	},
+	{
+ 	"date": "2017-05-20T00:01:08Z",
+	"averageResponseTime": 273
+	},
+	{
+ 	"date": "2017-05-19T00:01:25Z",
+	"averageResponseTime": 287
+	},
+	{
+ 	"date": "2017-05-18T00:01:13Z",
+	"averageResponseTime": 281
+	},
+	{
+ 	"date": "2017-05-17T00:00:59Z",
+	"averageResponseTime": 273
+	},
+	{
+ 	"date": "2017-05-16T00:01:52Z",
+	"averageResponseTime": 273
+	},
+	{
+ 	"date": "2017-05-15T00:01:45Z",
+	"averageResponseTime": 287
+	},
+	{
+ 	"date": "2017-05-14T00:01:57Z",
+	"averageResponseTime": 256
+	},
+	{
+ 	"date": "2017-05-13T00:01:35Z",
+	"averageResponseTime": 190
+	},
+	{
+ 	"date": "2017-05-12T00:01:38Z",
+	"averageResponseTime": 276
+	},
+	{
+ 	"date": "2017-05-11T00:01:42Z",
+	"averageResponseTime": 284
+	},
+	{
+ 	"date": "2017-05-10T00:01:34Z",
+	"averageResponseTime": 270
+	},
+	{
+ 	"date": "2017-05-09T00:01:38Z",
+	"averageResponseTime": 274
+	},
+	{
+ 	"date": "2017-05-08T00:01:47Z",
+	"averageResponseTime": 263
+	},
+	{
+ 	"date": "2017-05-07T00:02:00Z",
+	"averageResponseTime": 205
+	},
+	{
+ 	"date": "2017-05-06T00:03:15Z",
+	"averageResponseTime": 196
+	},
+	{
+ 	"date": "2017-05-05T00:01:40Z",
+	"averageResponseTime": 228
+	},
+	{
+ 	"date": "2017-05-04T00:02:41Z",
+	"averageResponseTime": 243
+	},
+	{
+ 	"date": "2017-05-03T00:01:15Z",
+	"averageResponseTime": 231
+	},
+	{
+ 	"date": "2017-05-02T00:01:10Z",
+	"averageResponseTime": 251
+	},
+	{
+ 	"date": "2017-05-01T00:01:09Z",
+	"averageResponseTime": 255
+	},
+	{
+ 	"date": "2017-04-30T00:01:20Z",
+	"averageResponseTime": 213
+	},
+	{
+ 	"date": "2017-04-29T00:00:56Z",
+	"averageResponseTime": 237
+	},
+	{
+ 	"date": "2017-04-28T00:02:06Z",
+	"averageResponseTime": 275
+	},
+	{
+ 	"date": "2017-04-27T00:02:21Z",
+	"averageResponseTime": 278
+	},
+	{
+ 	"date": "2017-04-26T00:01:49Z",
+	"averageResponseTime": 294
+	},
+	{
+ 	"date": "2017-04-25T00:01:29Z",
+	"averageResponseTime": 329
+	},
+	{
+ 	"date": "2017-04-24T00:01:37Z",
+	"averageResponseTime": 303
+	},
+	{
+ 	"date": "2017-04-23T00:01:50Z",
+	"averageResponseTime": 318
+	},
+	{
+ 	"date": "2017-04-22T00:01:33Z",
+	"averageResponseTime": 253
+	},
+	{
+ 	"date": "2017-04-21T00:01:36Z",
+	"averageResponseTime": 265
+	},
+	{
+ 	"date": "2017-04-20T00:01:59Z",
+	"averageResponseTime": 290
+	},
+	{
+ 	"date": "2017-04-19T00:01:20Z",
+	"averageResponseTime": 308
+	},
+	{
+ 	"date": "2017-04-18T00:01:43Z",
+	"averageResponseTime": 282
+	},
+	{
+ 	"date": "2017-04-17T00:01:01Z",
+	"averageResponseTime": 281
+	},
+	{
+ 	"date": "2017-04-16T00:01:24Z",
+	"averageResponseTime": 254
+	},
+	{
+ 	"date": "2017-04-15T00:01:06Z",
+	"averageResponseTime": 225
+	},
+	{
+ 	"date": "2017-04-14T00:00:57Z",
+	"averageResponseTime": 262
+	},
+	{
+ 	"date": "2017-04-13T00:02:34Z",
+	"averageResponseTime": 283
+	},
+	{
+ 	"date": "2017-04-12T00:01:25Z",
+	"averageResponseTime": 299
+	},
+	{
+ 	"date": "2017-04-11T00:01:15Z",
+	"averageResponseTime": 297
+	},
+	{
+ 	"date": "2017-04-10T00:01:09Z",
+	"averageResponseTime": 283
+	},
+	{
+ 	"date": "2017-04-09T00:01:25Z",
+	"averageResponseTime": 211
+	},
+	{
+ 	"date": "2017-04-08T00:01:08Z",
+	"averageResponseTime": 219
+	},
+	{
+ 	"date": "2017-04-07T00:01:03Z",
+	"averageResponseTime": 266
+	},
+	{
+ 	"date": "2017-04-06T00:02:44Z",
+	"averageResponseTime": 305
+	},
+	{
+ 	"date": "2017-04-05T00:02:24Z",
+	"averageResponseTime": 275
+	},
+	{
+ 	"date": "2017-04-04T00:01:58Z",
+	"averageResponseTime": 269
+	},
+	{
+ 	"date": "2017-04-03T00:01:42Z",
+	"averageResponseTime": 347
+	},
+	{
+ 	"date": "2017-04-02T00:01:55Z",
+	"averageResponseTime": 235
+	},
+	{
+ 	"date": "2017-04-01T00:01:54Z",
+	"averageResponseTime": 275
+	},
+	{
+ 	"date": "2017-03-31T00:01:49Z",
+	"averageResponseTime": 284
+	},
+	{
+ 	"date": "2017-03-30T00:01:31Z",
+	"averageResponseTime": 305
+	},
+	{
+ 	"date": "2017-03-29T00:01:05Z",
+	"averageResponseTime": 291
+	},
+	{
+ 	"date": "2017-03-28T00:01:14Z",
+	"averageResponseTime": 278
+	},
+	{
+ 	"date": "2017-03-27T00:01:11Z",
+	"averageResponseTime": 283
+	},
+	{
+ 	"date": "2017-03-26T00:01:27Z",
+	"averageResponseTime": 267
+	},
+	{
+ 	"date": "2017-03-25T00:02:02Z",
+	"averageResponseTime": 282
+	},
+	{
+ 	"date": "2017-03-24T00:02:05Z",
+	"averageResponseTime": 276
+	},
+	{
+ 	"date": "2017-03-23T00:04:25Z",
+	"averageResponseTime": 278
+	},
+	{
+ 	"date": "2017-03-22T00:02:01Z",
+	"averageResponseTime": 298
+	},
+	{
+ 	"date": "2017-03-21T00:01:46Z",
+	"averageResponseTime": 284
+	},
+	{
+ 	"date": "2017-03-20T00:01:35Z",
+	"averageResponseTime": 287
+	},
+	{
+ 	"date": "2017-03-19T00:02:00Z",
+	"averageResponseTime": 239
+	},
+	{
+ 	"date": "2017-03-18T00:01:33Z",
+	"averageResponseTime": 233
+	},
+	{
+ 	"date": "2017-03-17T00:01:40Z",
+	"averageResponseTime": 285
+	},
+	{
+ 	"date": "2017-03-16T00:02:48Z",
+	"averageResponseTime": 292
+	},
+	{
+ 	"date": "2017-03-15T00:01:25Z",
+	"averageResponseTime": 0
+	},
+	{
+ 	"date": "2017-03-14T00:01:31Z",
+	"averageResponseTime": 299
+	},
+	{
+ 	"date": "2017-03-13T00:01:14Z",
+	"averageResponseTime": 295
+	},
+	{
+ 	"date": "2017-03-12T00:01:17Z",
+	"averageResponseTime": 258
+	},
+	{
+ 	"date": "2017-03-11T00:01:21Z",
+	"averageResponseTime": 241
+	},
+	{
+ 	"date": "2017-03-10T00:01:14Z",
+	"averageResponseTime": 290
+	},
+	{
+ 	"date": "2017-03-09T00:01:06Z",
+	"averageResponseTime": 297
+	},
+	{
+ 	"date": "2017-03-08T00:01:22Z",
+	"averageResponseTime": 294
+	},
+	{
+ 	"date": "2017-03-07T22:31:03Z",
+	"averageResponseTime": 292
+	},
+    {
+      "date": "2017-03-02T00:01:52Z",
+      "averageResponseTime": 274
+    },
+    {
+      "date": "2017-03-01T00:02:04Z",
+      "averageResponseTime": 254
+    },
+    {
+      "date": "2017-02-28T00:01:53Z",
+      "averageResponseTime": 268
+    },
+    {
+      "date": "2017-02-27T00:01:47Z",
+      "averageResponseTime": 278
+    },
+    {
+      "date": "2017-02-26T00:01:38Z",
+      "averageResponseTime": 230
+    },
+    {
+      "date": "2017-02-25T00:02:03Z",
+      "averageResponseTime": 229
+    },
+    {
+      "date": "2017-02-24T00:02:09Z",
+      "averageResponseTime": 275
+    },
+    {
+      "date": "2017-02-23T00:01:44Z",
+      "averageResponseTime": 280
+    },
+    {
+      "date": "2017-02-22T00:01:45Z",
+      "averageResponseTime": 273
+    },
+    {
+      "date": "2017-02-21T00:01:16Z",
+      "averageResponseTime": 284
+    },
+    {
+      "date": "2017-02-20T00:01:15Z",
+      "averageResponseTime": 279
+    },
+    {
+      "date": "2017-02-19T00:01:17Z",
+      "averageResponseTime": 238
+    },
+    {
+      "date": "2017-02-18T00:01:09Z",
+      "averageResponseTime": 214
+    },
+    {
+      "date": "2017-02-17T00:01:11Z",
+      "averageResponseTime": 268
+    },
+    {
+      "date": "2017-02-16T00:01:14Z",
+      "averageResponseTime": 277
+    },
+    {
+      "date": "2017-02-15T00:01:33Z",
+      "averageResponseTime": 283
+    },
+    {
+      "date": "2017-02-14T00:01:07Z",
+      "averageResponseTime": 298
+    },
+    {
+      "date": "2017-02-13T00:01:06Z",
+      "averageResponseTime": 303
+    },
+    {
+      "date": "2017-02-12T00:01:00Z",
+      "averageResponseTime": 240
+    },
+    {
+      "date": "2017-02-11T00:01:01Z",
+      "averageResponseTime": 216
+    },
+    {
+      "date": "2017-02-10T00:01:03Z",
+      "averageResponseTime": 307
+    },
+    {
+      "date": "2017-02-09T00:01:05Z",
+      "averageResponseTime": 286
+    },
+    {
+      "date": "2017-02-08T00:02:02Z",
+      "averageResponseTime": 285
+    },
+    {
+      "date": "2017-02-07T00:01:42Z",
+      "averageResponseTime": 287
+    },
+    {
+      "date": "2017-02-06T00:01:46Z",
+      "averageResponseTime": 272
+    },
+    {
+      "date": "2017-02-05T00:01:37Z",
+      "averageResponseTime": 198
+    },
+    {
+      "date": "2017-02-04T00:01:31Z",
+      "averageResponseTime": 199
+    },
+    {
+      "date": "2017-02-03T00:01:28Z",
+      "averageResponseTime": 259
+    },
+    {
+      "date": "2017-02-02T00:01:35Z",
+      "averageResponseTime": 259
+    },
+    {
+      "date": "2017-02-01T00:01:20Z",
+      "averageResponseTime": 267
+    },
+    {
+      "date": "2017-01-31T00:01:30Z",
+      "averageResponseTime": 274
+    },
+    {
+      "date": "2017-01-30T00:00:56Z",
+      "averageResponseTime": 268
+    },
+    {
+      "date": "2017-01-29T00:00:51Z",
+      "averageResponseTime": 244
+    },
+    {
+      "date": "2017-01-28T00:01:12Z",
+      "averageResponseTime": 253
+    },
+    {
+      "date": "2017-01-27T00:01:10Z",
+      "averageResponseTime": 258
+    },
+    {
+      "date": "2017-01-26T00:01:28Z",
+      "averageResponseTime": 263
+    },
+    {
+      "date": "2017-01-25T00:01:18Z",
+      "averageResponseTime": 304
+    },
+    {
+      "date": "2017-01-24T00:01:23Z",
+      "averageResponseTime": 299
+    },
+    {
+      "date": "2017-01-23T00:00:57Z",
+      "averageResponseTime": 296
+    },
+    {
+      "date": "2017-01-22T00:00:49Z",
+      "averageResponseTime": 252
+    },
+    {
+      "date": "2017-01-21T00:01:04Z",
+      "averageResponseTime": 220
+    },
+    {
+      "date": "2017-01-20T00:01:26Z",
+      "averageResponseTime": 296
+    },
+    {
+      "date": "2017-01-19T00:02:27Z",
+      "averageResponseTime": 286
+    },
+    {
+      "date": "2017-01-18T00:01:23Z",
+      "averageResponseTime": 352
+    },
+    {
+      "date": "2017-01-17T00:01:09Z",
+      "averageResponseTime": 308
+    },
+    {
+      "date": "2017-01-16T00:01:31Z",
+      "averageResponseTime": 284
+    },
+    {
+      "date": "2017-01-15T01:01:41Z",
+      "averageResponseTime": 207
+    },
+    {
+      "date": "2017-01-14T00:01:31Z",
+      "averageResponseTime": 245
+    },
+    {
+      "date": "2017-01-13T00:02:12Z",
+      "averageResponseTime": 294
+    },
+    {
+      "date": "2017-01-12T00:02:47Z",
+      "averageResponseTime": 312
+    },
+    {
+      "date": "2017-01-11T00:03:16Z",
+      "averageResponseTime": 307
+    },
+    {
+      "date": "2017-01-10T00:02:00Z",
+      "averageResponseTime": 297
+    },
+    {
+      "date": "2017-01-09T00:01:26Z",
+      "averageResponseTime": 273
+    },
+    {
+      "date": "2017-01-08T00:03:08Z",
+      "averageResponseTime": 184
+    },
+    {
+      "date": "2017-01-07T00:01:57Z",
+      "averageResponseTime": 192
+    },
+    {
+      "date": "2017-01-06T00:05:21Z",
+      "averageResponseTime": 256
+    },
+    {
+      "date": "2017-01-05T00:02:00Z",
+      "averageResponseTime": 269
+    },
+    {
+      "date": "2017-01-04T00:03:30Z",
+      "averageResponseTime": 259
+    },
+    {
+      "date": "2017-01-03T00:01:44Z",
+      "averageResponseTime": 247
+    },
+    {
+      "date": "2017-01-02T00:01:31Z",
+      "averageResponseTime": 195
+    },
+    {
+      "date": "2017-01-01T00:01:34Z",
+      "averageResponseTime": 145
+    },
+    {
+      "date": "2016-12-31T00:01:31Z",
+      "averageResponseTime": 189
+    },
+    {
+      "date": "2016-12-30T00:01:23Z",
+      "averageResponseTime": 240
+    },
+    {
+      "date": "2016-12-29T00:01:19Z",
+      "averageResponseTime": 265
+    },
+    {
+      "date": "2016-12-28T00:01:06Z",
+      "averageResponseTime": 252
+    },
+    {
+      "date": "2016-12-27T00:01:08Z",
+      "averageResponseTime": 242
+    },
+    {
+      "date": "2016-12-26T00:01:12Z",
+      "averageResponseTime": 248
+    },
+    {
+      "date": "2016-12-25T00:00:59Z",
+      "averageResponseTime": 266
+    },
+    {
+      "date": "2016-12-24T00:00:59Z",
+      "averageResponseTime": 200
+    },
+    {
+      "date": "2016-12-23T00:01:07Z",
+      "averageResponseTime": 265
+    },
+    {
+      "date": "2016-12-22T00:01:47Z",
+      "averageResponseTime": 0
+    },
+    {
+      "date": "2016-12-21T00:01:38Z",
+      "averageResponseTime": 270
+    },
+    {
+      "date": "2016-12-20T00:01:30Z",
+      "averageResponseTime": 288
+    },
+    {
+      "date": "2016-12-19T00:01:17Z",
+      "averageResponseTime": 286
+    },
+    {
+      "date": "2016-12-18T00:01:14Z",
+      "averageResponseTime": 249
+    },
+    {
+      "date": "2016-12-17T00:01:18Z",
+      "averageResponseTime": 239
+    },
+    {
+      "date": "2016-12-16T00:01:37Z",
+      "averageResponseTime": 265
+    },
+    {
+      "date": "2016-12-15T00:00:57Z",
+      "averageResponseTime": 290
+    },
+    {
+      "date": "2016-12-14T00:01:08Z",
+      "averageResponseTime": 311
+    },
+    {
+      "date": "2016-12-13T00:00:53Z",
+      "averageResponseTime": 303
+    },
+    {
+      "date": "2016-12-12T00:00:42Z",
+      "averageResponseTime": 273
+    },
+    {
+      "date": "2016-12-11T00:00:48Z",
+      "averageResponseTime": 234
+    },
+    {
+      "date": "2016-12-10T00:00:55Z",
+      "averageResponseTime": 205
+    },
+    {
+      "date": "2016-12-09T00:00:47Z",
+      "averageResponseTime": 243
+    },
+    {
+      "date": "2016-12-08T00:00:52Z",
+      "averageResponseTime": 250
+    },
+    {
+      "date": "2016-12-07T00:00:50Z",
+      "averageResponseTime": 251
+    },
+    {
+      "date": "2016-12-06T00:02:15Z",
+      "averageResponseTime": 239
+    },
+    {
+      "date": "2016-12-05T00:01:16Z",
+      "averageResponseTime": 229
+    },
+    {
+      "date": "2016-12-04T00:01:07Z",
+      "averageResponseTime": 163
+    },
+    {
+      "date": "2016-12-03T00:01:18Z",
+      "averageResponseTime": 184
+    },
+    {
+      "date": "2016-12-02T00:01:15Z",
+      "averageResponseTime": 244
+    },
+    {
+      "date": "2016-12-01T00:01:17Z",
+      "averageResponseTime": 248
+    },
+    {
+      "date": "2016-11-30T00:01:25Z",
+      "averageResponseTime": 280
+    },
+    {
+      "date": "2016-11-29T00:01:01Z",
+      "averageResponseTime": 314
+    },
+    {
+      "date": "2016-11-28T00:00:55Z",
+      "averageResponseTime": 313
+    },
+    {
+      "date": "2016-11-27T00:01:03Z",
+      "averageResponseTime": 232
+    },
+    {
+      "date": "2016-11-26T00:00:44Z",
+      "averageResponseTime": 179
+    },
+    {
+      "date": "2016-11-25T00:00:41Z",
+      "averageResponseTime": 299
+    },
+    {
+      "date": "2016-11-24T00:00:41Z",
+      "averageResponseTime": 279
+    },
+    {
+      "date": "2016-11-23T00:01:16Z",
+      "averageResponseTime": 304
+    },
+    {
+      "date": "2016-11-22T00:00:45Z",
+      "averageResponseTime": 331
+    },
+    {
+      "date": "2016-11-21T00:01:32Z",
+      "averageResponseTime": 306
+    },
+    {
+      "date": "2016-11-20T00:01:27Z",
+      "averageResponseTime": 204
+    },
+    {
+      "date": "2016-11-19T00:01:36Z",
+      "averageResponseTime": 211
+    },
+    {
+      "date": "2016-11-18T00:01:26Z",
+      "averageResponseTime": 343
+    },
+    {
+      "date": "2016-11-17T00:01:37Z",
+      "averageResponseTime": 348
+    },
+    {
+      "date": "2016-11-16T00:01:12Z",
+      "averageResponseTime": 585
+    },
+    {
+      "date": "2016-11-15T00:01:11Z",
+      "averageResponseTime": 429
+    },
+    {
+      "date": "2016-11-14T00:01:04Z",
+      "averageResponseTime": 341
+    },
+    {
+      "date": "2016-11-13T00:01:03Z",
+      "averageResponseTime": 228
+    },
+    {
+      "date": "2016-11-12T00:01:08Z",
+      "averageResponseTime": 222
+    },
+    {
+      "date": "2016-11-11T00:01:17Z",
+      "averageResponseTime": 331
+    },
+    {
+      "date": "2016-11-10T00:00:58Z",
+      "averageResponseTime": 375
+    },
+    {
+      "date": "2016-11-09T00:05:45Z",
+      "averageResponseTime": 359
+    },
+    {
+      "date": "2016-11-08T00:00:53Z",
+      "averageResponseTime": 337
+    },
+    {
+      "date": "2016-11-07T00:00:48Z",
+      "averageResponseTime": 315
+    },
+    {
+      "date": "2016-11-06T00:00:47Z",
+      "averageResponseTime": 188
+    },
+    {
+      "date": "2016-11-05T00:00:41Z",
+      "averageResponseTime": 186
+    },
+    {
+      "date": "2016-11-04T00:00:38Z",
+      "averageResponseTime": 293
+    },
+    {
+      "date": "2016-11-03T00:00:43Z",
+      "averageResponseTime": 294
+    },
+    {
+      "date": "2016-11-02T00:01:33Z",
+      "averageResponseTime": 277
+    },
+    {
+      "date": "2016-11-01T00:01:25Z",
+      "averageResponseTime": 271
+    },
+    {
+      "date": "2016-10-31T00:01:15Z",
+      "averageResponseTime": 315
+    },
+    {
+      "date": "2016-10-30T00:01:13Z",
+      "averageResponseTime": 272
+    },
+    {
+      "date": "2016-10-29T00:01:09Z",
+      "averageResponseTime": 295
+    },
+    {
+      "date": "2016-10-28T00:01:03Z",
+      "averageResponseTime": 338
+    },
+    {
+      "date": "2016-10-27T00:01:11Z",
+      "averageResponseTime": 342
+    },
+    {
+      "date": "2016-10-26T00:00:52Z",
+      "averageResponseTime": 364
+    },
+    {
+      "date": "2016-10-25T00:00:49Z",
+      "averageResponseTime": 363
+    },
+    {
+      "date": "2016-10-24T00:00:42Z",
+      "averageResponseTime": 358
+    },
+    {
+      "date": "2016-10-23T00:00:52Z",
+      "averageResponseTime": 253
+    },
+    {
+      "date": "2016-10-22T00:00:36Z",
+      "averageResponseTime": 232
+    },
+    {
+      "date": "2016-10-21T00:00:34Z",
+      "averageResponseTime": 363
+    },
+    {
+      "date": "2016-10-20T00:01:07Z",
+      "averageResponseTime": 385
+    },
+    {
+      "date": "2016-10-19T00:00:47Z",
+      "averageResponseTime": 365
+    },
+    {
+      "date": "2016-10-18T00:00:54Z",
+      "averageResponseTime": 374
+    },
+    {
+      "date": "2016-10-17T00:00:38Z",
+      "averageResponseTime": 376
+    },
+    {
+      "date": "2016-10-16T00:00:45Z",
+      "averageResponseTime": 219
+    },
+    {
+      "date": "2016-10-15T00:00:58Z",
+      "averageResponseTime": 204
+    },
+    {
+      "date": "2016-10-14T00:00:31Z",
+      "averageResponseTime": 363
+    },
+    {
+      "date": "2016-10-13T00:00:46Z",
+      "averageResponseTime": 380
+    },
+    {
+      "date": "2016-10-12T00:00:33Z",
+      "averageResponseTime": 370
+    },
+    {
+      "date": "2016-10-11T00:00:47Z",
+      "averageResponseTime": 375
+    },
+    {
+      "date": "2016-10-10T00:00:34Z",
+      "averageResponseTime": 341
+    },
+    {
+      "date": "2016-10-09T00:01:29Z",
+      "averageResponseTime": 297
+    },
+    {
+      "date": "2016-10-08T00:00:36Z",
+      "averageResponseTime": 481
+    },
+    {
+      "date": "2016-10-07T00:00:48Z",
+      "averageResponseTime": 354
+    },
+    {
+      "date": "2016-10-06T00:01:40Z",
+      "averageResponseTime": 323
+    },
+    {
+      "date": "2016-10-05T00:00:51Z",
+      "averageResponseTime": 313
+    },
+    {
+      "date": "2016-10-04T00:00:59Z",
+      "averageResponseTime": 315
+    },
+    {
+      "date": "2016-10-03T00:00:45Z",
+      "averageResponseTime": 300
+    },
+    {
+      "date": "2016-10-02T00:00:48Z",
+      "averageResponseTime": 202
+    },
+    {
+      "date": "2016-10-01T00:00:48Z",
+      "averageResponseTime": 250
+    },
+    {
+      "date": "2016-09-30T00:00:47Z",
+      "averageResponseTime": 312
+    },
+    {
+      "date": "2016-09-29T00:00:49Z",
+      "averageResponseTime": 324
+    },
+    {
+      "date": "2016-09-28T00:00:58Z",
+      "averageResponseTime": 292
+    },
+    {
+      "date": "2016-09-27T00:00:48Z",
+      "averageResponseTime": 304
+    },
+    {
+      "date": "2016-09-26T00:00:39Z",
+      "averageResponseTime": 293
+    },
+    {
+      "date": "2016-09-25T00:00:44Z",
+      "averageResponseTime": 250
+    },
+    {
+      "date": "2016-09-24T00:00:38Z",
+      "averageResponseTime": 228
+    },
+    {
+      "date": "2016-09-23T00:00:42Z",
+      "averageResponseTime": 347
+    },
+    {
+      "date": "2016-09-22T00:02:09Z",
+      "averageResponseTime": 351
+    },
+    {
+      "date": "2016-09-21T00:02:53Z",
+      "averageResponseTime": 317
+    },
+    {
+      "date": "2016-09-20T00:01:16Z",
+      "averageResponseTime": 203
+    },
+    {
+      "date": "2016-09-19T00:00:45Z",
+      "averageResponseTime": 321
+    },
+    {
+      "date": "2016-09-18T00:02:10Z",
+      "averageResponseTime": 250
+    },
+    {
+      "date": "2016-09-17T00:01:58Z",
+      "averageResponseTime": 239
+    },
+    {
+      "date": "2016-09-16T00:00:43Z",
+      "averageResponseTime": 308
+    },
+    {
+      "date": "2016-09-15T00:01:17Z",
+      "averageResponseTime": 417
+    },
+    {
+      "date": "2016-09-14T00:00:43Z",
+      "averageResponseTime": 358
+    },
+    {
+      "date": "2016-09-13T00:05:35Z",
+      "averageResponseTime": 345
+    },
+    {
+      "date": "2016-09-12T00:00:37Z",
+      "averageResponseTime": 335
+    },
+    {
+      "date": "2016-09-11T00:00:36Z",
+      "averageResponseTime": 225
+    },
+    {
+      "date": "2016-09-10T00:00:40Z",
+      "averageResponseTime": 223
+    },
+    {
+      "date": "2016-09-09T00:00:31Z",
+      "averageResponseTime": 317
+    },
+    {
+      "date": "2016-09-08T00:00:51Z",
+      "averageResponseTime": 335
+    },
+    {
+      "date": "2016-09-07T01:01:07Z",
+      "averageResponseTime": 319
+    },
+    {
+      "date": "2016-09-06T00:01:06Z",
+      "averageResponseTime": 316
+    },
+    {
+      "date": "2016-09-05T00:01:01Z",
+      "averageResponseTime": 263
+    },
+    {
+      "date": "2016-09-04T00:01:02Z",
+      "averageResponseTime": 165
+    },
+    {
+      "date": "2016-09-03T00:01:08Z",
+      "averageResponseTime": 722
+    },
+    {
+      "date": "2016-09-02T00:01:14Z",
+      "averageResponseTime": 306
+    },
+    {
+      "date": "2016-09-01T00:01:30Z",
+      "averageResponseTime": 305
+    },
+    {
+      "date": "2016-08-31T00:01:06Z",
+      "averageResponseTime": 328
+    },
+    {
+      "date": "2016-08-30T00:01:09Z",
+      "averageResponseTime": 316
+    },
+    {
+      "date": "2016-08-29T00:00:54Z",
+      "averageResponseTime": 366
+    },
+    {
+      "date": "2016-08-28T00:00:55Z",
+      "averageResponseTime": 221
+    },
+    {
+      "date": "2016-08-27T00:00:51Z",
+      "averageResponseTime": 195
+    },
+    {
+      "date": "2016-08-26T00:03:04Z",
+      "averageResponseTime": 274
+    },
+    {
+      "date": "2016-08-25T00:01:19Z",
+      "averageResponseTime": 294
+    },
+    {
+      "date": "2016-08-24T00:00:47Z",
+      "averageResponseTime": 354
+    },
+    {
+      "date": "2016-08-23T00:00:48Z",
+      "averageResponseTime": 324
+    },
+    {
+      "date": "2016-08-22T00:00:44Z",
+      "averageResponseTime": 325
+    },
+    {
+      "date": "2016-08-21T00:00:47Z",
+      "averageResponseTime": 326
+    },
+    {
+      "date": "2016-08-20T00:00:40Z",
+      "averageResponseTime": 227
+    },
+    {
+      "date": "2016-08-19T00:00:54Z",
+      "averageResponseTime": 328
+    },
+    {
+      "date": "2016-08-18T00:01:01Z",
+      "averageResponseTime": 322
+    },
+    {
+      "date": "2016-08-17T00:00:42Z",
+      "averageResponseTime": 342
+    },
+    {
+      "date": "2016-08-16T00:25:45Z",
+      "averageResponseTime": 335
+    },
+    {
+      "date": "2016-08-15T00:00:35Z",
+      "averageResponseTime": 306
+    },
+    {
+      "date": "2016-08-14T00:00:39Z",
+      "averageResponseTime": 228
+    },
+    {
+      "date": "2016-08-13T00:00:43Z",
+      "averageResponseTime": 212
+    },
+    {
+      "date": "2016-08-12T00:00:36Z",
+      "averageResponseTime": 329
+    },
+    {
+      "date": "2016-08-11T00:01:01Z",
+      "averageResponseTime": 377
+    },
+    {
+      "date": "2016-08-10T00:00:39Z",
+      "averageResponseTime": 365
+    },
+    {
+      "date": "2016-08-09T00:00:52Z",
+      "averageResponseTime": 493
+    },
+    {
+      "date": "2016-08-08T00:00:41Z",
+      "averageResponseTime": 386
+    },
+    {
+      "date": "2016-08-07T00:00:44Z",
+      "averageResponseTime": 246
+    },
+    {
+      "date": "2016-08-06T00:00:49Z",
+      "averageResponseTime": 207
+    },
+    {
+      "date": "2016-08-05T00:00:43Z",
+      "averageResponseTime": 344
+    },
+    {
+      "date": "2016-08-04T00:01:42Z",
+      "averageResponseTime": 344
+    },
+    {
+      "date": "2016-08-03T00:01:32Z",
+      "averageResponseTime": 318
+    },
+    {
+      "date": "2016-08-02T00:01:51Z",
+      "averageResponseTime": 295
+    },
+    {
+      "date": "2016-08-01T00:01:20Z",
+      "averageResponseTime": 293
+    },
+    {
+      "date": "2016-07-31T00:01:24Z",
+      "averageResponseTime": 227
+    },
+    {
+      "date": "2016-07-30T00:01:26Z",
+      "averageResponseTime": 202
+    },
+    {
+      "date": "2016-07-29T00:01:19Z",
+      "averageResponseTime": 345
+    },
+    {
+      "date": "2016-07-28T00:01:28Z",
+      "averageResponseTime": 303
+    },
+    {
+      "date": "2016-07-27T00:01:11Z",
+      "averageResponseTime": 294
+    },
+    {
+      "date": "2016-07-26T00:01:45Z",
+      "averageResponseTime": 290
+    },
+    {
+      "date": "2016-07-25T00:01:10Z",
+      "averageResponseTime": 344
+    },
+    {
+      "date": "2016-07-24T00:01:14Z",
+      "averageResponseTime": 274
+    },
+    {
+      "date": "2016-07-23T00:01:31Z",
+      "averageResponseTime": 231
+    },
+    {
+      "date": "2016-07-22T00:01:44Z",
+      "averageResponseTime": 350
+    },
+    {
+      "date": "2016-07-21T00:01:16Z",
+      "averageResponseTime": 365
+    },
+    {
+      "date": "2016-07-20T00:01:12Z",
+      "averageResponseTime": 415
+    },
+    {
+      "date": "2016-07-19T00:01:33Z",
+      "averageResponseTime": 436
+    },
+    {
+      "date": "2016-07-18T00:01:18Z",
+      "averageResponseTime": 402
+    },
+    {
+      "date": "2016-07-17T00:01:10Z",
+      "averageResponseTime": 244
+    },
+    {
+      "date": "2016-07-16T00:01:03Z",
+      "averageResponseTime": 259
+    },
+    {
+      "date": "2016-07-15T00:01:03Z",
+      "averageResponseTime": 413
+    },
+    {
+      "date": "2016-07-14T00:01:51Z",
+      "averageResponseTime": 453
+    },
+    {
+      "date": "2016-07-13T00:01:42Z",
+      "averageResponseTime": 444
+    },
+    {
+      "date": "2016-07-12T00:11:56Z",
+      "averageResponseTime": 543
+    },
+    {
+      "date": "2016-07-11T00:01:34Z",
+      "averageResponseTime": 446
+    },
+    {
+      "date": "2016-07-10T00:01:19Z",
+      "averageResponseTime": 275
+    },
+    {
+      "date": "2016-07-09T00:01:23Z",
+      "averageResponseTime": 260
+    },
+    {
+      "date": "2016-07-08T00:01:23Z",
+      "averageResponseTime": 394
+    },
+    {
+      "date": "2016-07-07T00:01:20Z",
+      "averageResponseTime": 414
+    },
+    {
+      "date": "2016-07-06T00:01:46Z",
+      "averageResponseTime": 394
+    },
+    {
+      "date": "2016-07-05T00:01:18Z",
+      "averageResponseTime": 236
+    },
+    {
+      "date": "2016-07-04T00:01:18Z",
+      "averageResponseTime": 297
+    },
+    {
+      "date": "2016-07-03T00:01:16Z",
+      "averageResponseTime": 260
+    },
+    {
+      "date": "2016-07-02T00:01:14Z",
+      "averageResponseTime": 283
+    },
+    {
+      "date": "2016-07-01T00:02:18Z",
+      "averageResponseTime": 322
+    },
+    {
+      "date": "2016-06-30T00:01:11Z",
+      "averageResponseTime": 340
+    },
+    {
+      "date": "2016-06-29T00:01:33Z",
+      "averageResponseTime": 455
+    },
+    {
+      "date": "2016-06-28T00:01:46Z",
+      "averageResponseTime": 365
+    },
+    {
+      "date": "2016-06-27T00:01:42Z",
+      "averageResponseTime": 371
+    },
+    {
+      "date": "2016-06-26T00:01:17Z",
+      "averageResponseTime": 251
+    },
+    {
+      "date": "2016-06-25T00:02:23Z",
+      "averageResponseTime": 344
+    },
+    {
+      "date": "2016-06-24T00:01:11Z",
+      "averageResponseTime": 421
+    },
+    {
+      "date": "2016-06-23T00:01:09Z",
+      "averageResponseTime": 369
+    },
+    {
+      "date": "2016-06-22T00:01:12Z",
+      "averageResponseTime": 549
+    },
+    {
+      "date": "2016-06-21T00:02:20Z",
+      "averageResponseTime": 514
+    },
+    {
+      "date": "2016-06-20T00:01:08Z",
+      "averageResponseTime": 471
+    },
+    {
+      "date": "2016-06-19T00:01:08Z",
+      "averageResponseTime": 310
+    },
+    {
+      "date": "2016-06-18T00:01:38Z",
+      "averageResponseTime": 256
+    },
+    {
+      "date": "2016-06-17T00:01:12Z",
+      "averageResponseTime": 371
+    },
+    {
+      "date": "2016-06-16T00:01:11Z",
+      "averageResponseTime": 396
+    },
+    {
+      "date": "2016-06-15T00:01:10Z",
+      "averageResponseTime": 392
+    },
+    {
+      "date": "2016-06-14T00:01:05Z",
+      "averageResponseTime": 494
+    },
+    {
+      "date": "2016-06-13T00:01:21Z",
+      "averageResponseTime": 417
+    },
+    {
+      "date": "2016-06-12T00:01:17Z",
+      "averageResponseTime": 495
+    },
+    {
+      "date": "2016-06-11T00:01:15Z",
+      "averageResponseTime": 285
+    },
+    {
+      "date": "2016-06-10T00:01:14Z",
+      "averageResponseTime": 369
+    },
+    {
+      "date": "2016-06-09T00:01:13Z",
+      "averageResponseTime": 420
+    },
+    {
+      "date": "2016-06-08T00:01:35Z",
+      "averageResponseTime": 400
+    },
+    {
+      "date": "2016-06-07T00:01:10Z",
+      "averageResponseTime": 410
+    },
+    {
+      "date": "2016-06-06T00:01:08Z",
+      "averageResponseTime": 366
+    },
+    {
+      "date": "2016-06-05T00:01:07Z",
+      "averageResponseTime": 279
+    },
+    {
+      "date": "2016-06-04T00:01:38Z",
+      "averageResponseTime": 361
+    },
+    {
+      "date": "2016-06-03T00:01:27Z",
+      "averageResponseTime": 365
+    },
+    {
+      "date": "2016-06-02T00:01:03Z",
+      "averageResponseTime": 372
+    },
+    {
+      "date": "2016-06-01T00:00:59Z",
+      "averageResponseTime": 473
+    },
+    {
+      "date": "2016-05-31T00:01:17Z",
+      "averageResponseTime": 383
+    },
+    {
+      "date": "2016-05-30T00:01:15Z",
+      "averageResponseTime": 338
+    },
+    {
+      "date": "2016-05-29T00:01:13Z",
+      "averageResponseTime": 282
+    },
+    {
+      "date": "2016-05-28T00:01:13Z",
+      "averageResponseTime": 259
+    },
+    {
+      "date": "2016-05-27T00:01:36Z",
+      "averageResponseTime": 324
+    },
+    {
+      "date": "2016-05-26T00:01:21Z",
+      "averageResponseTime": 343
+    },
+    {
+      "date": "2016-05-25T00:01:21Z",
+      "averageResponseTime": 422
+    },
+    {
+      "date": "2016-05-24T00:01:20Z",
+      "averageResponseTime": 412
+    },
+    {
+      "date": "2016-05-23T00:01:18Z",
+      "averageResponseTime": 392
+    },
+    {
+      "date": "2016-05-22T00:01:17Z",
+      "averageResponseTime": 317
+    },
+    {
+      "date": "2016-05-21T00:01:14Z",
+      "averageResponseTime": 442
+    },
+    {
+      "date": "2016-05-20T00:01:22Z",
+      "averageResponseTime": 405
+    },
+    {
+      "date": "2016-05-19T00:01:21Z",
+      "averageResponseTime": 536
+    },
+    {
+      "date": "2016-05-18T00:01:20Z",
+      "averageResponseTime": 473
+    },
+    {
+      "date": "2016-05-17T00:02:33Z",
+      "averageResponseTime": 404
+    },
+    {
+      "date": "2016-05-16T00:01:02Z",
+      "averageResponseTime": 436
+    },
+    {
+      "date": "2016-05-15T00:01:00Z",
+      "averageResponseTime": 295
+    },
+    {
+      "date": "2016-05-14T00:01:27Z",
+      "averageResponseTime": 282
+    },
+    {
+      "date": "2016-05-13T00:01:26Z",
+      "averageResponseTime": 395
+    },
+    {
+      "date": "2016-05-12T00:01:22Z",
+      "averageResponseTime": 438
+    },
+    {
+      "date": "2016-05-11T00:02:24Z",
+      "averageResponseTime": 451
+    },
+    {
+      "date": "2016-05-10T00:01:41Z",
+      "averageResponseTime": 514
+    },
+    {
+      "date": "2016-05-09T00:01:09Z",
+      "averageResponseTime": 990
+    },
+    {
+      "date": "2016-05-08T00:01:08Z",
+      "averageResponseTime": 287
+    },
+    {
+      "date": "2016-05-07T00:01:24Z",
+      "averageResponseTime": 822
+    },
+    {
+      "date": "2016-05-06T00:01:41Z",
+      "averageResponseTime": 436
+    },
+    {
+      "date": "2016-05-05T00:01:07Z",
+      "averageResponseTime": 412
+    },
+    {
+      "date": "2016-05-04T00:01:06Z",
+      "averageResponseTime": 381
+    },
+    {
+      "date": "2016-05-03T00:01:55Z",
+      "averageResponseTime": 349
+    },
+    {
+      "date": "2016-05-02T00:01:45Z",
+      "averageResponseTime": 333
+    },
+    {
+      "date": "2016-05-01T00:01:42Z",
+      "averageResponseTime": 268
+    },
+    {
+      "date": "2016-04-30T00:01:40Z",
+      "averageResponseTime": 279
+    },
+    {
+      "date": "2016-04-29T00:01:53Z",
+      "averageResponseTime": 442
+    },
+    {
+      "date": "2016-04-28T00:01:35Z",
+      "averageResponseTime": 419
+    },
+    {
+      "date": "2016-04-27T00:01:49Z",
+      "averageResponseTime": 363
+    },
+    {
+      "date": "2016-04-26T00:01:47Z",
+      "averageResponseTime": 386
+    },
+    {
+      "date": "2016-04-25T00:01:28Z",
+      "averageResponseTime": 415
+    },
+    {
+      "date": "2016-04-24T00:01:26Z",
+      "averageResponseTime": 381
+    },
+    {
+      "date": "2016-04-23T00:01:28Z",
+      "averageResponseTime": 944
+    },
+    {
+      "date": "2016-04-22T00:01:21Z",
+      "averageResponseTime": 394
+    },
+    {
+      "date": "2016-04-21T00:01:35Z",
+      "averageResponseTime": 389
+    },
+    {
+      "date": "2016-04-20T00:01:32Z",
+      "averageResponseTime": 449
+    },
+    {
+      "date": "2016-04-19T00:01:30Z",
+      "averageResponseTime": 1168
+    },
+    {
+      "date": "2016-04-18T00:01:27Z",
+      "averageResponseTime": 484
+    },
+    {
+      "date": "2016-04-17T00:01:26Z",
+      "averageResponseTime": 312
+    },
+    {
+      "date": "2016-04-16T00:01:55Z",
+      "averageResponseTime": 303
+    },
+    {
+      "date": "2016-04-15T00:01:06Z",
+      "averageResponseTime": 473
+    },
+    {
+      "date": "2016-04-14T00:01:22Z",
+      "averageResponseTime": 506
+    },
+    {
+      "date": "2016-04-13T00:01:14Z",
+      "averageResponseTime": 473
+    },
+    {
+      "date": "2016-04-12T00:00:58Z",
+      "averageResponseTime": 491
+    },
+    {
+      "date": "2016-04-11T00:00:56Z",
+      "averageResponseTime": 536
+    },
+    {
+      "date": "2016-04-10T00:00:56Z",
+      "averageResponseTime": 430
+    },
+    {
+      "date": "2016-04-09T00:00:50Z",
+      "averageResponseTime": 319
+    },
+    {
+      "date": "2016-04-08T00:00:48Z",
+      "averageResponseTime": 624
+    },
+    {
+      "date": "2016-04-07T00:01:58Z",
+      "averageResponseTime": 473
+    },
+    {
+      "date": "2016-04-06T00:01:38Z",
+      "averageResponseTime": 424
+    },
+    {
+      "date": "2016-04-05T00:01:37Z",
+      "averageResponseTime": 368
+    },
+    {
+      "date": "2016-04-04T00:01:53Z",
+      "averageResponseTime": 1682
+    },
+    {
+      "date": "2016-04-03T00:01:39Z",
+      "averageResponseTime": 351
+    },
+    {
+      "date": "2016-04-02T00:02:25Z",
+      "averageResponseTime": 331
+    },
+    {
+      "date": "2016-04-01T00:01:28Z",
+      "averageResponseTime": 316
+    },
+    {
+      "date": "2016-03-31T00:01:44Z",
+      "averageResponseTime": 323
+    },
+    {
+      "date": "2016-03-30T00:02:19Z",
+      "averageResponseTime": 332
+    },
+    {
+      "date": "2016-03-29T00:01:42Z",
+      "averageResponseTime": 346
+    },
+    {
+      "date": "2016-03-28T00:01:38Z",
+      "averageResponseTime": 347
+    },
+    {
+      "date": "2016-03-27T00:01:35Z",
+      "averageResponseTime": 294
+    },
+    {
+      "date": "2016-03-26T00:02:11Z",
+      "averageResponseTime": 305
+    },
+    {
+      "date": "2016-03-25T00:01:01Z",
+      "averageResponseTime": 328
+    },
+    {
+      "date": "2016-03-24T00:01:42Z",
+      "averageResponseTime": 393
+    },
+    {
+      "date": "2016-03-23T00:01:42Z",
+      "averageResponseTime": 373
+    },
+    {
+      "date": "2016-03-22T00:00:53Z",
+      "averageResponseTime": 421
+    },
+    {
+      "date": "2016-03-21T00:01:07Z",
+      "averageResponseTime": 1424
+    },
+    {
+      "date": "2016-03-20T00:00:49Z",
+      "averageResponseTime": 304
+    },
+    {
+      "date": "2016-03-19T00:00:48Z",
+      "averageResponseTime": 281
+    },
+    {
+      "date": "2016-03-18T00:00:46Z",
+      "averageResponseTime": 364
+    },
+    {
+      "date": "2016-03-17T00:00:58Z",
+      "averageResponseTime": 367
+    },
+    {
+      "date": "2016-03-16T00:00:39Z",
+      "averageResponseTime": 371
+    },
+    {
+      "date": "2016-03-15T00:00:38Z",
+      "averageResponseTime": 431
+    },
+    {
+      "date": "2016-03-14T00:00:40Z",
+      "averageResponseTime": 538
+    },
+    {
+      "date": "2016-03-13T00:00:38Z",
+      "averageResponseTime": 327
+    },
+    {
+      "date": "2016-03-12T00:01:17Z",
+      "averageResponseTime": 276
+    },
+    {
+      "date": "2016-03-11T00:01:10Z",
+      "averageResponseTime": 403
+    },
+    {
+      "date": "2016-03-10T00:00:56Z",
+      "averageResponseTime": 480
+    },
+    {
+      "date": "2016-03-09T00:01:07Z",
+      "averageResponseTime": 466
+    },
+    {
+      "date": "2016-03-08T00:00:53Z",
+      "averageResponseTime": 513
+    },
+    {
+      "date": "2016-03-07T00:00:55Z",
+      "averageResponseTime": 621
+    },
+    {
+      "date": "2016-03-06T00:00:54Z",
+      "averageResponseTime": 339
+    },
+    {
+      "date": "2016-03-05T00:00:52Z",
+      "averageResponseTime": 322
+    },
+    {
+      "date": "2016-03-04T00:00:46Z",
+      "averageResponseTime": 811
+    },
+    {
+      "date": "2016-03-03T00:01:18Z",
+      "averageResponseTime": 1093
+    },
+    {
+      "date": "2016-03-02T00:00:56Z",
+      "averageResponseTime": 613
+    },
+    {
+      "date": "2016-03-01T00:00:54Z",
+      "averageResponseTime": 308
+    },
+    {
+      "date": "2016-02-29T00:00:39Z",
+      "averageResponseTime": 556
+    },
+    {
+      "date": "2016-02-28T00:00:37Z",
+      "averageResponseTime": 328
+    },
+    {
+      "date": "2016-02-27T00:00:47Z",
+      "averageResponseTime": 283
+    },
+    {
+      "date": "2016-02-26T00:00:55Z",
+      "averageResponseTime": 457
+    },
+    {
+      "date": "2016-02-25T00:30:33Z",
+      "averageResponseTime": 362
+    },
+    {
+      "date": "2016-02-24T00:01:11Z",
+      "averageResponseTime": 719
+    },
+    {
+      "date": "2016-02-23T00:01:11Z",
+      "averageResponseTime": 633
+    },
+    {
+      "date": "2016-02-22T00:00:56Z",
+      "averageResponseTime": 458
+    },
+    {
+      "date": "2016-02-21T00:00:55Z",
+      "averageResponseTime": 402
+    },
+    {
+      "date": "2016-02-20T00:00:53Z",
+      "averageResponseTime": 385
+    },
+    {
+      "date": "2016-02-19T00:00:52Z",
+      "averageResponseTime": 501
+    },
+    {
+      "date": "2016-02-18T00:01:16Z",
+      "averageResponseTime": 371
+    },
+    {
+      "date": "2016-02-17T00:00:48Z",
+      "averageResponseTime": 420
+    },
+    {
+      "date": "2016-02-16T00:00:49Z",
+      "averageResponseTime": 466
+    },
+    {
+      "date": "2016-02-15T00:00:46Z",
+      "averageResponseTime": 455
+    },
+    {
+      "date": "2016-02-14T00:00:45Z",
+      "averageResponseTime": 365
+    },
+    {
+      "date": "2016-02-13T00:00:57Z",
+      "averageResponseTime": 323
+    },
+    {
+      "date": "2016-02-12T00:00:40Z",
+      "averageResponseTime": 394
+    },
+    {
+      "date": "2016-02-11T00:00:39Z",
+      "averageResponseTime": 395
+    },
+    {
+      "date": "2016-02-10T00:00:58Z",
+      "averageResponseTime": 454
+    },
+    {
+      "date": "2016-02-09T00:00:56Z",
+      "averageResponseTime": 380
+    },
+    {
+      "date": "2016-02-08T00:00:46Z",
+      "averageResponseTime": 352
+    },
+    {
+      "date": "2016-02-07T00:00:44Z",
+      "averageResponseTime": 251
+    },
+    {
+      "date": "2016-02-06T00:00:42Z",
+      "averageResponseTime": 302
+    },
+    {
+      "date": "2016-02-05T00:00:38Z",
+      "averageResponseTime": 433
+    },
+    {
+      "date": "2016-02-04T00:00:33Z",
+      "averageResponseTime": 354
+    },
+    {
+      "date": "2016-02-03T00:00:31Z",
+      "averageResponseTime": 334
+    },
+    {
+      "date": "2016-02-02T00:00:39Z",
+      "averageResponseTime": 328
+    },
+    {
+      "date": "2016-02-01T00:00:28Z",
+      "averageResponseTime": 301
+    },
+    {
+      "date": "2016-01-31T00:00:27Z",
+      "averageResponseTime": 273
+    },
+    {
+      "date": "2016-01-30T00:00:32Z",
+      "averageResponseTime": 289
+    },
+    {
+      "date": "2016-01-29T00:01:26Z",
+      "averageResponseTime": 332
+    },
+    {
+      "date": "2016-01-28T00:00:47Z",
+      "averageResponseTime": 271
+    },
+    {
+      "date": "2016-01-27T00:00:47Z",
+      "averageResponseTime": 332
+    },
+    {
+      "date": "2016-01-26T00:00:39Z",
+      "averageResponseTime": 320
+    },
+    {
+      "date": "2016-01-25T00:00:37Z",
+      "averageResponseTime": 354
+    },
+    {
+      "date": "2016-01-24T00:00:34Z",
+      "averageResponseTime": 296
+    },
+    {
+      "date": "2016-01-23T00:00:34Z",
+      "averageResponseTime": 326
+    },
+    {
+      "date": "2016-01-22T01:51:32Z",
+      "averageResponseTime": 533
+    },
+    {
+      "date": "2016-01-21T00:00:28Z",
+      "averageResponseTime": 434
+    },
+    {
+      "date": "2016-01-20T00:00:27Z",
+      "averageResponseTime": 452
+    },
+    {
+      "date": "2016-01-19T00:00:34Z",
+      "averageResponseTime": 433
+    },
+    {
+      "date": "2016-01-18T00:00:32Z",
+      "averageResponseTime": 385
+    },
+    {
+      "date": "2016-01-17T00:00:31Z",
+      "averageResponseTime": 320
+    },
+    {
+      "date": "2016-01-16T00:00:29Z",
+      "averageResponseTime": 297
+    },
+    {
+      "date": "2016-01-15T00:00:27Z",
+      "averageResponseTime": 357
+    },
+    {
+      "date": "2016-01-14T00:00:34Z",
+      "averageResponseTime": 366
+    },
+    {
+      "date": "2016-01-13T00:00:46Z",
+      "averageResponseTime": 502
+    },
+    {
+      "date": "2016-01-12T00:00:38Z",
+      "averageResponseTime": 482
+    },
+    {
+      "date": "2016-01-11T00:00:37Z",
+      "averageResponseTime": 523
+    },
+    {
+      "date": "2016-01-10T00:00:36Z",
+      "averageResponseTime": 456
+    },
+    {
+      "date": "2016-01-09T00:00:34Z",
+      "averageResponseTime": 323
+    },
+    {
+      "date": "2016-01-08T00:00:41Z",
+      "averageResponseTime": 420
+    },
+    {
+      "date": "2016-01-07T00:00:32Z",
+      "averageResponseTime": 380
+    },
+    {
+      "date": "2016-01-06T00:00:28Z",
+      "averageResponseTime": 382
+    },
+    {
+      "date": "2016-01-05T00:00:31Z",
+      "averageResponseTime": 370
+    },
+    {
+      "date": "2016-01-04T00:00:29Z",
+      "averageResponseTime": 302
+    },
+    {
+      "date": "2016-01-03T00:00:27Z",
+      "averageResponseTime": 238
+    },
+    {
+      "date": "2016-01-02T00:00:27Z",
+      "averageResponseTime": 247
+    },
+    {
+      "date": "2016-01-01T00:00:24Z",
+      "averageResponseTime": 312
+    },
+    {
+      "date": "2015-12-31T00:00:13Z",
+      "averageResponseTime": 306
+    },
+    {
+      "date": "2015-12-30T00:00:34Z",
+      "averageResponseTime": 381
+    },
+    {
+      "date": "2015-12-29T00:00:33Z",
+      "averageResponseTime": 296
+    },
+    {
+      "date": "2015-12-28T00:00:27Z",
+      "averageResponseTime": 296
+    },
+    {
+      "date": "2015-12-27T00:00:26Z",
+      "averageResponseTime": 291
+    },
+    {
+      "date": "2015-12-26T00:00:25Z",
+      "averageResponseTime": 254
+    },
+    {
+      "date": "2015-12-25T00:00:24Z",
+      "averageResponseTime": 352
+    },
+    {
+      "date": "2015-12-24T00:00:28Z",
+      "averageResponseTime": 594
+    },
+    {
+      "date": "2015-12-23T00:00:20Z",
+      "averageResponseTime": 326
+    },
+    {
+      "date": "2015-12-22T00:00:20Z",
+      "averageResponseTime": 504
+    },
+    {
+      "date": "2015-12-21T00:00:19Z",
+      "averageResponseTime": 408
+    },
+    {
+      "date": "2015-12-20T00:00:17Z",
+      "averageResponseTime": 271
+    },
+    {
+      "date": "2015-12-19T00:00:16Z",
+      "averageResponseTime": 246
+    },
+    {
+      "date": "2015-12-18T00:00:14Z",
+      "averageResponseTime": 433
+    },
+    {
+      "date": "2015-12-17T00:00:14Z",
+      "averageResponseTime": 374
+    },
+    {
+      "date": "2015-12-16T00:00:15Z",
+      "averageResponseTime": 402
+    },
+    {
+      "date": "2015-12-15T00:00:13Z",
+      "averageResponseTime": 372
+    },
+    {
+      "date": "2015-12-14T00:00:32Z",
+      "averageResponseTime": 395
+    },
+    {
+      "date": "2015-12-13T00:00:28Z",
+      "averageResponseTime": 313
+    },
+    {
+      "date": "2015-12-12T00:00:26Z",
+      "averageResponseTime": 284
+    },
+    {
+      "date": "2015-12-11T00:00:24Z",
+      "averageResponseTime": 356
+    },
+    {
+      "date": "2015-12-10T00:00:23Z",
+      "averageResponseTime": 374
+    },
+    {
+      "date": "2015-12-09T00:00:25Z",
+      "averageResponseTime": 379
+    },
+    {
+      "date": "2015-12-08T00:00:20Z",
+      "averageResponseTime": 378
+    },
+    {
+      "date": "2015-12-07T00:00:19Z",
+      "averageResponseTime": 329
+    },
+    {
+      "date": "2015-12-06T00:00:18Z",
+      "averageResponseTime": 286
+    },
+    {
+      "date": "2015-12-05T00:00:16Z",
+      "averageResponseTime": 296
+    },
+    {
+      "date": "2015-12-04T00:00:18Z",
+      "averageResponseTime": 323
+    },
+    {
+      "date": "2015-12-03T00:00:17Z",
+      "averageResponseTime": 324
+    },
+    {
+      "date": "2015-12-02T00:00:18Z",
+      "averageResponseTime": 309
+    },
+    {
+      "date": "2015-12-01T00:00:16Z",
+      "averageResponseTime": 271
+    },
+    {
+      "date": "2015-11-30T00:00:20Z",
+      "averageResponseTime": 289
+    },
+    {
+      "date": "2015-11-29T00:00:19Z",
+      "averageResponseTime": 292
+    },
+    {
+      "date": "2015-11-28T00:00:17Z",
+      "averageResponseTime": 334
+    },
+    {
+      "date": "2015-11-27T00:00:15Z",
+      "averageResponseTime": 333
+    },
+    {
+      "date": "2015-11-26T00:00:23Z",
+      "averageResponseTime": 272
+    },
+    {
+      "date": "2015-11-25T00:00:25Z",
+      "averageResponseTime": 335
+    },
+    {
+      "date": "2015-11-24T00:00:19Z",
+      "averageResponseTime": 319
+    },
+    {
+      "date": "2015-11-23T00:00:17Z",
+      "averageResponseTime": 329
+    },
+    {
+      "date": "2015-11-22T00:00:14Z",
+      "averageResponseTime": 354
+    },
+    {
+      "date": "2015-11-21T00:00:16Z",
+      "averageResponseTime": 480
+    },
+    {
+      "date": "2015-11-20T00:00:19Z",
+      "averageResponseTime": 311
+    },
+    {
+      "date": "2015-11-19T00:00:03Z",
+      "averageResponseTime": 357
+    },
+    {
+      "date": "2015-11-18T00:00:02Z",
+      "averageResponseTime": 335
+    },
+    {
+      "date": "2015-11-17T00:00:03Z",
+      "averageResponseTime": 340
+    },
+    {
+      "date": "2015-11-16T00:00:01Z",
+      "averageResponseTime": 356
+    },
+    {
+      "date": "2015-11-15T00:00:02Z",
+      "averageResponseTime": 295
+    },
+    {
+      "date": "2015-11-14T00:00:03Z",
+      "averageResponseTime": 330
+    },
+    {
+      "date": "2015-11-13T00:34:50Z",
+      "averageResponseTime": 334
+    },
+    {
+      "date": "2015-11-12T00:00:46Z",
+      "averageResponseTime": 351
+    },
+    {
+      "date": "2015-11-11T00:00:16Z",
+      "averageResponseTime": 329
+    },
+    {
+      "date": "2015-11-10T00:00:25Z",
+      "averageResponseTime": 312
+    },
+    {
+      "date": "2015-11-09T00:00:22Z",
+      "averageResponseTime": 333
+    },
+    {
+      "date": "2015-11-08T00:00:21Z",
+      "averageResponseTime": 310
+    },
+    {
+      "date": "2015-11-07T00:00:18Z",
+      "averageResponseTime": 309
+    },
+    {
+      "date": "2015-11-06T00:00:16Z",
+      "averageResponseTime": 324
+    },
+    {
+      "date": "2015-11-05T00:00:15Z",
+      "averageResponseTime": 336
+    },
+    {
+      "date": "2015-11-04T00:00:22Z",
+      "averageResponseTime": 314
+    },
+    {
+      "date": "2015-11-03T00:00:27Z",
+      "averageResponseTime": 297
+    },
+    {
+      "date": "2015-11-02T00:00:20Z",
+      "averageResponseTime": 322
+    },
+    {
+      "date": "2015-11-01T00:00:19Z",
+      "averageResponseTime": 271
+    },
+    {
+      "date": "2015-10-31T00:00:15Z",
+      "averageResponseTime": 263
+    },
+    {
+      "date": "2015-10-30T00:00:16Z",
+      "averageResponseTime": 268
+    },
+    {
+      "date": "2015-10-29T00:00:14Z",
+      "averageResponseTime": 280
+    },
+    {
+      "date": "2015-10-28T00:00:12Z",
+      "averageResponseTime": 310
+    },
+    {
+      "date": "2015-10-27T00:00:33Z",
+      "averageResponseTime": 300
+    },
+    {
+      "date": "2015-10-26T02:28:07Z",
+      "averageResponseTime": 367
+    },
+    {
+      "date": "2015-10-25T17:01:33Z",
+      "averageResponseTime": 322
+    },
+    {
+      "date": "2015-10-24T17:01:32Z",
+      "averageResponseTime": 337
+    },
+    {
+      "date": "2015-10-23T17:01:32Z",
+      "averageResponseTime": 322
+    },
+    {
+      "date": "2015-10-22T17:01:32Z",
+      "averageResponseTime": 309
+    },
+    {
+      "date": "2015-10-21T17:01:32Z",
+      "averageResponseTime": 310
+    },
+    {
+      "date": "2015-10-20T17:01:32Z",
+      "averageResponseTime": 322
+    },
+    {
+      "date": "2015-10-19T19:52:29Z",
+      "averageResponseTime": 393
+    },
+    {
+      "date": "2015-10-18T17:01:33Z",
+      "averageResponseTime": 336
+    },
+    {
+      "date": "2015-10-17T17:01:16Z",
+      "averageResponseTime": 451
+    },
+    {
+      "date": "2015-10-16T17:01:32Z",
+      "averageResponseTime": 356
+    },
+    {
+      "date": "2015-10-15T17:01:32Z",
+      "averageResponseTime": 323
+    },
+    {
+      "date": "2015-10-14T17:01:58Z",
+      "averageResponseTime": 336
+    },
+    {
+      "date": "2015-10-13T17:01:58Z",
+      "averageResponseTime": 334
+    },
+    {
+      "date": "2015-10-12T17:01:58Z",
+      "averageResponseTime": 347
+    },
+    {
+      "date": "2015-10-11T17:01:58Z",
+      "averageResponseTime": 397
+    },
+    {
+      "date": "2015-10-10T17:01:58Z",
+      "averageResponseTime": 354
+    },
+    {
+      "date": "2015-10-09T17:01:58Z",
+      "averageResponseTime": 344
+    },
+    {
+      "date": "2015-10-08T17:01:58Z",
+      "averageResponseTime": 365
+    },
+    {
+      "date": "2015-10-07T17:01:58Z",
+      "averageResponseTime": 383
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

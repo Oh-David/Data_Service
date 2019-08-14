@@ -1,0 +1,52 @@
+﻿{
+    "environments":  [
+                         {
+                             "name":  "Prod US1"
+                         },
+                         {
+                             "name":  "Prod US2"
+                         },
+                         {
+                             "name":  "Prod EU1"
+                         },
+                         {
+                             "name":  "SB US1"
+                         },
+                         {
+                             "name":  "SB US2"
+                         },
+                         {
+                             "name":  "SB EU1"
+                         }
+                 ],
+    "incidents":  [
+                      {
+                          "environmentName":  "Prod EU1",
+                          "startDateTime":  "2017-10-24T15:02:00Z",
+                          "endDateTime":  "2017-10-24T18:02:00Z",
+                          "description":  "The BlackLine service is operating in a degraded mode. Engineers have been dispatched to investigate and resolve the issue.",
+                          "incidentType":  "ServiceDegradation"
+                      },
+                      {
+                          "environmentName":  "SB EU1",
+                          "startDateTime":  "2017-10-24T15:02:00Z",
+                          "endDateTime":  "2017-10-24T18:02:00Z",
+                          "description":  "The BlackLine service is operating in a degraded mode. Engineers have been dispatched to investigate and resolve the issue.",
+                          "incidentType":  "ServiceDegradation"
+                      },
+                      {
+                          "environmentName":  "Prod US2",
+                          "startDateTime":  "2017-11-02T05:20:00Z",
+                          "endDateTime":  "2017-11-02T06:20:00Z",
+                          "description":  "The BlackLine Tech Team observed a service degradation issue affecting DAI Imports and are actively working to resolve the issue. Some clients may have experienced Minor delays when using our products and services. On trust.blackline.com we will provide additional information as it becomes available.Root Cause: The problem was caused by an unexpected fault. We have taken action to isolate the fault and to restore normal service.",
+                          "incidentType":  "ServiceDegradation"
+                      },
+                      {
+                          "environmentName":  "SB EU1",
+                          "startDateTime":  "2017-11-08T16:57:00Z",
+                          "endDateTime":  "2017-11-09T06:58:00Z",
+                          "description":  "The BlackLine service is stable, operating normally and all open tickets related to this incident have been closed. If you are still experiencing issues, please contact Support via the Support Portal.",
+                          "incidentType":  "ServiceDegradation"
+                      }
+                  ]
+}

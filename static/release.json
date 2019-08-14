@@ -1,0 +1,564 @@
+﻿{
+    "release":  [
+                    {
+                        "environmentName":  "Prod EU1",
+                        "startDateTime":  "2017-08-19T00:00:00Z",
+                        "endDateTime":  "2017-08-19T07:00:00Z",
+                        "title":  "EU Production Release",
+                        "description":  "BlackLine will be performing the 7.15.0 release to Production. Any jobs submitted after the start of the deployment window will be queued and completed after the release. There is no expected downtime during the release window. Users with active sessions will be returned to the login page at the transition. Release Notes will be made available in the Community prior to each release.",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "Prod US1",
+                        "startDateTime":  "2017-08-19T00:00:00Z",
+                        "endDateTime":  "2017-08-19T07:00:00Z",
+                        "title":  "NA Production Release",
+                        "description":  "BlackLine will be performing the 7.15.0 release to Production. Any jobs submitted after the start of the deployment window will be queued and completed after the release. There is no expected downtime during the release window. Users with active sessions will be returned to the login page at the transition. Release Notes will be made available in the Community prior to each release.",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "Prod US2",
+                        "startDateTime":  "2017-08-19T00:00:00Z",
+                        "endDateTime":  "2017-08-19T07:00:00Z",
+                        "title":  "NA Production Release",
+                        "description":  "BlackLine will be performing the 7.15.0 release to Production. Any jobs submitted after the start of the deployment window will be queued and completed after the release. There is no expected downtime during the release window. Users with active sessions will be returned to the login page at the transition. Release Notes will be made available in the Community prior to each release.",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "SB EU1",
+                        "startDateTime":  "2017-08-16T20:00:00Z",
+                        "endDateTime":  "2017-08-16T23:00:00Z",
+                        "title":  "Sandbox AMS Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB US1",
+                        "startDateTime":  "2017-08-17T03:00:00Z",
+                        "endDateTime":  "2017-08-17T06:59:00Z",
+                        "title":  " Sandbox North America Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB US2",
+                        "startDateTime":  "2017-08-17T03:00:00Z",
+                        "endDateTime":  "2017-08-17T06:59:00Z",
+                        "title":  " Sandbox North America Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "Prod US1",
+                        "startDateTime":  "2017-08-26T12:00:00Z",
+                        "endDateTime":  "2017-08-26T17:00:00Z",
+                        "title":  "Production North America Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "Prod US2",
+                        "startDateTime":  "2017-08-26T12:00:00Z",
+                        "endDateTime":  "2017-08-26T17:00:00Z",
+                        "title":  "Production North America Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "Prod EU1",
+                        "startDateTime":  "2017-08-26T12:00:00Z",
+                        "endDateTime":  "2017-08-26T17:00:00Z",
+                        "title":  "Production AMS Maintenance",
+                        "description":  "Blackline will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB EU1",
+                        "startDateTime":  "2017-09-20T20:00:00Z",
+                        "endDateTime":  "2017-09-20T23:00:00Z",
+                        "title":  "Sandbox AMS Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB US1",
+                        "startDateTime":  "2017-09-21T03:00:00Z",
+                        "endDateTime":  "2017-09-21T09:00:00Z",
+                        "title":  "Sandbox North America Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB US2",
+                        "startDateTime":  "2017-09-21T03:00:00Z",
+                        "endDateTime":  "2017-09-21T09:00:00Z",
+                        "title":  "Sandbox North America Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB EU1",
+                        "startDateTime":  "2017-10-18T20:00:00Z",
+                        "endDateTime":  "2017-10-18T23:00:00Z",
+                        "title":  "Sandbox AMS Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB US1",
+                        "startDateTime":  "2017-10-19T03:00:00Z",
+                        "endDateTime":  "2017-10-19T06:59:00Z",
+                        "title":  "Sandbox North America Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB US2",
+                        "startDateTime":  "2017-10-19T03:00:00Z",
+                        "endDateTime":  "2017-10-19T06:59:00Z",
+                        "title":  "Sandbox North America Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "Prod US1",
+                        "startDateTime":  "2017-10-28T03:00:00Z",
+                        "endDateTime":  "2017-10-28T09:00:00Z",
+                        "title":  "Production North America Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "Prod US2",
+                        "startDateTime":  "2017-10-28T03:00:00Z",
+                        "endDateTime":  "2017-10-28T09:00:00Z",
+                        "title":  "Production North America Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "Prod EU1",
+                        "startDateTime":  "2017-10-27T02:30:00Z",
+                        "endDateTime":  "2017-10-28T09:00:00Z",
+                        "title":  "Production AMS Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB EU1",
+                        "startDateTime":  "2017-12-13T21:00:00Z",
+                        "endDateTime":  "2017-12-13T00:00:00Z",
+                        "title":  "Sandbox AMS Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB US1",
+                        "startDateTime":  "2017-12-13T04:00:00Z",
+                        "endDateTime":  "2017-12-13T07:59:00Z",
+                        "title":  "Sandbox North America Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB US2",
+                        "startDateTime":  "2017-12-13T04:00:00Z",
+                        "endDateTime":  "2017-12-13T07:59:00Z",
+                        "title":  "Sandbox North America Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "Prod US1",
+                        "startDateTime":  "2017-12-22T04:00:00Z",
+                        "endDateTime":  "2017-12-22T09:00:00Z",
+                        "title":  "Production North America Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "Prod US2",
+                        "startDateTime":  "2017-12-22T04:00:00Z",
+                        "endDateTime":  "2017-12-22T09:00:00Z",
+                        "title":  "Production North America Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "Prod EU1",
+                        "startDateTime":  "2017-12-22T21:00:00Z",
+                        "endDateTime":  "2017-12-22T00:00:00Z",
+                        "title":  "Production AMS Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB US2",
+                        "startDateTime":  "2017-08-15T18:30:00Z",
+                        "endDateTime":  "2017-08-16T00:30:00Z",
+                        "title":  "Sandbox Maintenance Release",
+                        "description":  "BlackLine will be performing a maintenance release in our sandbox environment. Jobs submitted at the start of the release will be held in queue and executed after the release has been completed. Users will active sessions at will be redirected to the login page at the transition of services. ",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "SB EU1",
+                        "startDateTime":  "2017-08-15T18:30:00Z",
+                        "endDateTime":  "2017-08-16T00:30:00Z",
+                        "title":  "Sandbox Maintenance Release",
+                        "description":  "BlackLine will be performing a maintenance release in our sandbox environment. Jobs submitted at the start of the release will be held in queue and executed after the release has been completed. Users will active sessions at will be redirected to the login page at the transition of services.",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "SB US2",
+                        "startDateTime":  "2017-09-07T20:30:00Z",
+                        "endDateTime":  "2017-09-08T02:30:00Z",
+                        "title":  "Sandbox Minor Release",
+                        "description":  "BlackLine will be performing a minor release to our sandbox environments. Any jobs submitted after the start of the deployment window will be queued and completed after the release. There is no expected downtime during the release window. Users with active sessions will be returned to the login page at the transition. Release Notes will be made available in the Community prior to each release.",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "SB EU1",
+                        "startDateTime":  "2017-09-07T20:30:00Z",
+                        "endDateTime":  "2017-09-08T02:30:00Z",
+                        "title":  "Sandbox Minor Release",
+                        "description":  "BlackLine will be performing a minor release to our sandbox environments. Any jobs submitted after the start of the deployment window will be queued and completed after the release. There is no expected downtime during the release window. Users with active sessions will be returned to the login page at the transition. Release Notes will be made available in the Community prior to each release.",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "Prod US2",
+                        "startDateTime":  "2017-09-23T00:00:00Z",
+                        "endDateTime":  "2017-09-23T06:59:00Z",
+                        "title":  "Production Minor Release",
+                        "description":  "BlackLine will be performing a minor release to our production environments. Any jobs submitted after the start of the deployment window will be queued and completed after the release. There is no expected downtime during the release window. Users with active sessions will be returned to the login page at the transition. Release Notes will be made available in the Community prior to each release.",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "Prod EU1",
+                        "startDateTime":  "2017-09-23T00:00:00Z",
+                        "endDateTime":  "2017-09-23T06:59:00Z",
+                        "title":  "Production Minor Release",
+                        "description":  "BlackLine will be performing a minor release to our production environments. Any jobs submitted after the start of the deployment window will be queued and completed after the release. There is no expected downtime during the release window. Users with active sessions will be returned to the login page at the transition. Release Notes will be made available in the Community prior to each release.",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "SB US2",
+                        "startDateTime":  "2017-11-03T18:15:00Z",
+                        "endDateTime":  "2017-11-04T00:30:00Z",
+                        "title":  "7.16.0 Sandbox Release",
+                        "description":  "BlackLine will be performing a major release to our sandbox environments. Any jobs submitted after the start of the deployment window will be queued and completed after the release. There is no expected downtime during the release window. Users with active sessions will be returned to the login page at the transition. Release Notes will be made available in the Community prior to each release. ",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "SB EU1",
+                        "startDateTime":  "2017-11-03T18:15:00Z",
+                        "endDateTime":  "2017-11-04T00:30:00Z",
+                        "title":  "7.16.0 Sandbox Release",
+                        "description":  "BlackLine will be performing a major release to our sandbox environments. Any jobs submitted after the start of the deployment window will be queued and completed after the release. There is no expected downtime during the release window. Users with active sessions will be returned to the login page at the transition. Release Notes will be made available in the Community prior to each release. ",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "Prod US2",
+                        "startDateTime":  "2017-11-18T01:00:00Z",
+                        "endDateTime":  "2017-11-18T11:00:00Z",
+                        "title":  "7.16.0 Production Release",
+                        "description":  "BlackLine will be performing a major release to our production environments. Any jobs submitted after the start of the deployment window will be queued and completed after the release. There is no expected downtime during the release window. Users with active sessions will be returned to the login page at the transition. Release Notes will be made available in the Community prior to each release. ",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "Prod EU1",
+                        "startDateTime":  "2017-11-18T01:00:00Z",
+                        "endDateTime":  "2017-11-18T11:00:00Z",
+                        "title":  "7.16.0 Production Release",
+                        "description":  "BlackLine will be performing a major release to our production environments. Any jobs submitted after the start of the deployment window will be queued and completed after the release. There is no expected downtime during the release window. Users with active sessions will be returned to the login page at the transition. Release Notes will be made available in the Community prior to each release. ",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "SB US1",
+                        "startDateTime":  "2017-08-25T19:00:00Z",
+                        "endDateTime":  "2017-08-25T24:00:00Z",
+                        "title":  "Sandbox North America Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB US2",
+                        "startDateTime":  "2017-08-25T19:00:00Z",
+                        "endDateTime":  "2017-08-25T24:00:00Z",
+                        "title":  "Sandbox North America Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB EU1",
+                        "startDateTime":  "2017-08-25T19:00:00Z",
+                        "endDateTime":  "2017-08-25T24:00:00Z",
+                        "title":  "Sandbox AMS Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "Prod US2",
+                        "startDateTime":  "2017-08-22T22:00:00Z",
+                        "endDateTime":  "2017-08-23T00:00:00Z",
+                        "title":  "FTP Maintenance",
+                        "description":  "We will be performing maintenance in our US environment today to update FTP services. This maintenance will only affect US FTP instances. During the maintenance window, FTP services will be slightly interrupted.  ",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB US2",
+                        "startDateTime":  "2017-08-22T22:00:00Z",
+                        "endDateTime":  "2017-08-23T00:00:00Z",
+                        "title":  "FTP Maintenance",
+                        "description":  "We will be performing maintenance in our US environment today to update FTP services. This maintenance will only affect US FTP instances. During the maintenance window, FTP services will be slightly interrupted.  ",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "Prod US2",
+                        "startDateTime":  "2017-08-31T18:30:00Z",
+                        "endDateTime":  "2017-09-01T00:30:00Z",
+                        "title":  "Sandbox and Production Maintenance Release",
+                        "description":  "BlackLine will be performing a sandbox and production maintenance release starting at 11:30 AM PT. There is no downtime as a result of the release. A release note will be posted in the community to describe this change.",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "Prod EU1",
+                        "startDateTime":  "2017-08-31T18:30:00Z",
+                        "endDateTime":  "2017-09-01T00:30:00Z",
+                        "title":  "Sandbox and Production Maintenance Release",
+                        "description":  "Blackline will be performing a sandbox and production maintenance release starting at 11:30 AM PT. There is no downtime as a result of the release. A release note will be posted in the community to describe this change.",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "SB US2",
+                        "startDateTime":  "2017-08-31T18:30:00Z",
+                        "endDateTime":  "2017-09-01T00:30:00Z",
+                        "title":  "Sandbox and Production Maintenance Release",
+                        "description":  "Blackline will be performing a sandbox and production maintenance release starting at 11:30 AM PT. There is no downtime as a result of the release. A release note will be posted in the community to describe this change.",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "SB EU1",
+                        "startDateTime":  "2017-08-31T18:30:00Z",
+                        "endDateTime":  "2017-09-01T00:30:00Z",
+                        "title":  "Sandbox and Production Maintenance Release",
+                        "description":  "BlackLine will be performing a sandbox and production maintenance release starting at 11:30 AM PT. There is no downtime as a result of the release. A release note will be posted in the community to describe this change.",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "Prod US2",
+                        "startDateTime":  "2017-09-09T00:00:00Z",
+                        "endDateTime":  "2017-09-09T04:00:00Z",
+                        "title":  "Production Maintenance Release",
+                        "description":  "BlackLine will be performing a maintenance release in our production environments on September 8, 2017 from 5:00 PM - 9:00 PM PT (UTC September 9, 2017 Midnight - 4:00 AM). Jobs submitted at the start of the release window will be held in queue and processed at the completion of the release window. This change was released to sandbox on September 7, 2017 at 7:30 PM PT. We are releasing this specific update to the production environments ahead of the original September 22, 2017 production release schedule to minimize the impact to your August close cycle. The release notes are posted in the Documentation Release Notes section.",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "Prod EU1",
+                        "startDateTime":  "2017-09-09T00:00:00Z",
+                        "endDateTime":  "2017-09-09T04:00:00Z",
+                        "title":  "Production Maintenance Release",
+                        "description":  "BlackLine will be performing a maintenance release in our production environments on September 8, 2017 from 5:00 PM - 9:00 PM PT (UTC September 9, 2017 Midnight - 4:00 AM). Jobs submitted at the start of the release window will be held in queue and processed at the completion of the release window. This change was released to sandbox on September 7, 2017 at 7:30 PM PT. We are releasing this specific update to the production environments ahead of the original September 22, 2017 production release schedule to minimize the impact to your August close cycle. The release notes are posted in the Documentation Release Notes section.",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "Prod US2",
+                        "startDateTime":  "2017-09-10T16:00:00Z",
+                        "endDateTime":  "2017-09-10T20:30:00Z",
+                        "title":  "Production Maintenance",
+                        "description":  "To minimize client impact after the degradation from yesterday, we are performing some maintenance to ensure all client jobs are processing as expected. Some clients may experience temporary unavailability of files during this maintenance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "Prod US2",
+                        "startDateTime":  "2017-10-21T15:00:00Z",
+                        "endDateTime":  "2017-10-21T17:00:00Z",
+                        "title":  "FTP Maintenance Sandbox and Production US Data Center",
+                        "description":  "BlackLine will be performing FTP maintenance in our sandbox and production US data center on October 21, 2017 from 8:00 AM – 12:00 PM PT (October 21, 3:00 PM to 7:00 PM UTC). During this time, the FTP service will be unavailable, jobs will be paused, and no import requests will be accepted.FTP imports scheduled to run during this maintenance window will resume processing when BlackLine restores FTP service. Non-scheduled jobs cannot be submitted during the maintenance window and should be resubmitted after the maintenance has been completed.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB US2",
+                        "startDateTime":  "2017-10-21T15:00:00Z",
+                        "endDateTime":  "2017-10-21T17:00:00Z",
+                        "title":  "FTP Maintenance Sandbox and Production US Data Center",
+                        "description":  "BlackLine will be performing FTP maintenance in our sandbox and production US data center on October 21, 2017 from 8:00 AM – 12:00 PM PT (October 21, 3:00 PM to 7:00 PM UTC). During this time, the FTP service will be unavailable, jobs will be paused, and no import requests will be accepted.FTP imports scheduled to run during this maintenance window will resume processing when BlackLine restores FTP service. Non-scheduled jobs cannot be submitted during the maintenance window and should be resubmitted after the maintenance has been completed.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB US2",
+                        "startDateTime":  "2017-09-26T21:00:00Z",
+                        "endDateTime":  "2017-09-26T23:59:00Z",
+                        "title":  "Sandbox Maintenance Release",
+                        "description":  "BlackLine will be performing a maintenance release to all data centers in our Sandbox environment. There is no expected downtime during the release window. Users with active sessions will be returned to the login page at the transition of services.  ",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "SB EU1",
+                        "startDateTime":  "2017-09-26T21:00:00Z",
+                        "endDateTime":  "2017-09-26T23:59:00Z",
+                        "title":  "Sandbox Maintenance Release",
+                        "description":  "BlackLine will be performing a maintenance release to all data centers in our Sandbox environment. There is no expected downtime during the release window. Users with active sessions will be returned to the login page at the transition of services.  ",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "Prod US2",
+                        "startDateTime":  "2017-09-30T00:00:00Z",
+                        "endDateTime":  "2017-09-30T03:00:00Z",
+                        "title":  "Production Maintenance Release",
+                        "description":  "BlackLine will be performing a maintenance release to all data centers in our Production environment. There is no expected downtime during the release window. Users with active sessions will be returned to the login page at the transition of services.  ",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "Prod EU1",
+                        "startDateTime":  "2017-09-30T00:00:00Z",
+                        "endDateTime":  "2017-09-30T03:00:00Z",
+                        "title":  "Production Maintenance Release",
+                        "description":  "BlackLine will be performing a maintenance release to all data centers in our Production environment. There is no expected downtime during the release window. Users with active sessions will be returned to the login page at the transition of services.  ",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "SB US2",
+                        "startDateTime":  "2017-10-06T21:00:00Z",
+                        "endDateTime":  "2017-10-06T22:00:00Z",
+                        "title":  "Sandbox Release Update",
+                        "description":  "BlackLine will be performing a release update in our Sandbox  environment for new reporting. There is no impact to customers as a result of this release update. Release notes for this update are posted in the community and can be accessed at  https://blackline.jiveon.com/docs/DOC-4811.",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "SB EU1",
+                        "startDateTime":  "2017-10-06T21:00:00Z",
+                        "endDateTime":  "2017-10-06T22:00:00Z",
+                        "title":  "Sandbox Release Update",
+                        "description":  "BlackLine will be performing a release update in our Sandbox  environment for new reporting. There is no impact to customers as a result of this release update. Release notes for this update are posted in the community and can be accessed at https://blackline.jiveon.com/docs/DOC-4811.",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "Prod US2",
+                        "startDateTime":  "2017-10-11T00:00:00Z",
+                        "endDateTime":  "2017-10-11T01:00:00Z",
+                        "title":  "Production Release Update",
+                        "description":  "BlackLine will be performing a release update in our Production environment for new reporting. There is no impact to customers as a result of this release update. Release notes for this update are posted in the community and can be accessed at  https://blackline.jiveon.com/docs/DOC-4811.",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "Prod EU1",
+                        "startDateTime":  "2017-10-11T00:00:00Z",
+                        "endDateTime":  "2017-10-11T01:00:00Z",
+                        "title":  "Production Release Update",
+                        "description":  "BlackLine will be performing a release update in our Production environment for new reporting. There is no impact to customers as a result of this release update. Release notes for this update are posted in the community and can be accessed at  https://blackline.jiveon.com/docs/DOC-4811.",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "SB US2",
+                        "startDateTime":  "2017-10-06T21:00:00Z",
+                        "endDateTime":  "2017-10-06T23:00:00Z",
+                        "title":  "Las Vegas Sandbox Infrastructure Maintenance",
+                        "description":  "BlackLine will be performing maintenance in our Las Vegas Sandbox environment; during this maintenance, job processing will be paused and newly submitted jobs will be queued until the maintenance has completed. Services will be restarted and processing will resume to complete the jobs in queue.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "Prod US2",
+                        "startDateTime":  "2017-10-10T00:00:00Z",
+                        "endDateTime":  "2017-10-10T02:00:00Z",
+                        "title":  "Maintenance",
+                        "description":  "At 6pm PDT, BlackLine is restarting the Matching Import Service.  All new jobs will be suspended starting at 5pm PDT until the restart is complete.  Jobs in process at the start of this maintenance will be allowed to finish processing before the restart.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "Prod US1",
+                        "startDateTime":  "2017-11-19T02:00:00Z",
+                        "endDateTime":  "2017-11-19T06:00:00Z",
+                        "title":  "Production North America Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "Prod US2",
+                        "startDateTime":  "2017-11-19T02:00:00Z",
+                        "endDateTime":  "2017-11-19T06:00:00Z",
+                        "title":  "Production North America Maintenance",
+                        "description":  "BlackLine will be performing routine Windows maintenance. Users may experience intermittent service interruptions during this maintenance window. Users may also experience some overall slowness in performance.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB US2",
+                        "startDateTime":  "2017-11-09T00:00:00Z",
+                        "endDateTime":  "2017-11-09T02:00:00Z",
+                        "title":  "Sandbox Release Update",
+                        "description":  "BlackLine will be performing a release update in our sandbox environment. Data import jobs in process will be allowed to complete and any queued or scheduled jobs will be held in queue until the deployment has completed. Jobs will resume processing when the service becomes available after deployment. ",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "SB EU1",
+                        "startDateTime":  "2017-11-09T00:00:00Z",
+                        "endDateTime":  "2017-11-09T02:00:00Z",
+                        "title":  "Sandbox Release Update",
+                        "description":  "BlackLine will be performing a release update in our sandbox environment. Data import jobs in process will be allowed to complete and any queued or scheduled jobs will be held in queue until the deployment has completed. Jobs will resume processing when the service becomes available after deployment. ",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "SB US2",
+                        "startDateTime":  "2017-11-10T19:00:00Z",
+                        "endDateTime":  "2017-11-10T21:00:00Z",
+                        "title":  "Sandbox Release Update",
+                        "description":  "BlackLine will be performing a release update in our sandbox environment  Users will be redirected to the login page at the transition of services. ",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "SB EU1",
+                        "startDateTime":  "2017-11-10T19:00:00Z",
+                        "endDateTime":  "2017-11-10T21:00:00Z",
+                        "title":  "Sandbox Release Update",
+                        "description":  "BlackLine will be performing a release update in our sandbox environment  Users will be redirected to the login page at the transition of services. ",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "Prod US2",
+                        "startDateTime":  "2017-11-11T06:00:00Z",
+                        "endDateTime":  "2017-11-11T08:00:00Z",
+                        "title":  "Emergency Preventive Maintenance",
+                        "description":  "BlackLine will be performing Emergency Preventive Maintenance to our Sandbox and Production environments in all data centers from November 10 at 10:00 PM to November 11 at 12:00 AM PST (November 11 at 6:00 AM to 8:00 AM UTC).Clients may continue to use the Application during the maintenance window. New reporting, bulk-certification of journals, and uploading documents (Sandbox only) may be temporarily unavailable during that period.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "Prod EU1",
+                        "startDateTime":  "2017-11-11T06:00:00Z",
+                        "endDateTime":  "2017-11-11T08:00:00Z",
+                        "title":  "Emergency Preventive Maintenance",
+                        "description":  "BlackLine will be performing Emergency Preventive Maintenance to our Sandbox and Production environments in all data centers from November 10 at 10:00 PM to November 11 at 12:00 AM PST (November 11 at 6:00 AM to 8:00 AM UTC).Clients may continue to use the Application during the maintenance window. New reporting, bulk-certification of journals, and uploading documents (Sandbox only) may be temporarily unavailable during that period.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB US2",
+                        "startDateTime":  "2017-11-11T06:00:00Z",
+                        "endDateTime":  "2017-11-11T08:00:00Z",
+                        "title":  "Emergency Preventive Maintenance",
+                        "description":  "BlackLine will be performing Emergency Preventive Maintenance to our Sandbox and Production environments in all data centers from November 10 at 10:00 PM to November 11 at 12:00 AM PST (November 11 at 6:00 AM to 8:00 AM UTC).Clients may continue to use the Application during the maintenance window. New reporting, bulk-certification of journals, and uploading documents (Sandbox only) may be temporarily unavailable during that period.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB EU1",
+                        "startDateTime":  "2017-11-11T06:00:00Z",
+                        "endDateTime":  "2017-11-11T08:00:00Z",
+                        "title":  "Emergency Preventive Maintenance",
+                        "description":  "BlackLine will be performing Emergency Preventive Maintenance to our Sandbox and Production environments in all data centers from November 10 at 10:00 PM to November 11 at 12:00 AM PST (November 11 at 6:00 AM to 8:00 AM UTC).Clients may continue to use the Application during the maintenance window. New reporting, bulk-certification of journals, and uploading documents (Sandbox only) may be temporarily unavailable during that period.",
+                        "incidentType":  "Maintenance"
+                    },
+                    {
+                        "environmentName":  "SB US2",
+                        "startDateTime":  "2017-11-15T02:00:00Z",
+                        "endDateTime":  "2017-11-15T04:00:00Z",
+                        "title":  "",
+                        "description":  "BlackLine will be performing a maintenance release in our sandbox environments. Users with active sessions will be redirected to the login page at the transition of services. A release note for this change will be posted in the community.",
+                        "incidentType":  "Release"
+                    },
+                    {
+                        "environmentName":  "SB EU1",
+                        "startDateTime":  "2017-11-15T02:00:00Z",
+                        "endDateTime":  "2017-11-15T04:00:00Z",
+                        "title":  "",
+                        "description":  "BlackLine will be performing a maintenance release in our sandbox environments. Users with active sessions will be redirected to the login page at the transition of services. A release note for this change will be posted in the community.",
+                        "incidentType":  "Release"
+                    }
+                ]
+}
